@@ -1,0 +1,4 @@
+Distro: Ubuntu 18.04
+Kernel: 5.3
+
+bash script has comments for user inputs

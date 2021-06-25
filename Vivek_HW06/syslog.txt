@@ -1,0 +1,1352 @@
+May  3 17:34:38 vivek-VirtualBox kernel: [    4.319367] PM:   Magic number: 4:476:600
+May  3 17:34:38 vivek-VirtualBox kernel: [    4.319514] rtc_cmos rtc_cmos: setting system clock to 2020-05-03T21:34:36 UTC (1588541676)
+May  3 17:34:38 vivek-VirtualBox kernel: [    4.414321] ata2.00: ATAPI: VBOX CD-ROM, 1.0, max UDMA/133
+May  3 17:34:38 vivek-VirtualBox kernel: [    4.415231] scsi 1:0:0:0: CD-ROM            VBOX     CD-ROM           1.0  PQ: 0 ANSI: 5
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.057236] sr 1:0:0:0: [sr0] scsi3-mmc drive: 32x/32x xa/form2 tray
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.057237] cdrom: Uniform CD-ROM driver Revision: 3.20
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.057439] sr 1:0:0:0: Attached scsi CD-ROM sr0
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.057471] sr 1:0:0:0: Attached scsi generic sg0 type 5
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.058788] Freeing unused decrypted memory: 2040K
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.059287] Freeing unused kernel image (initmem) memory: 2628K
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.076533] Write protecting the kernel read-only data: 22528k
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.077366] Freeing unused kernel image (text/rodata gap) memory: 2044K
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.077878] Freeing unused kernel image (rodata/data gap) memory: 1196K
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.085440] x86/mm: Checked W+X mappings: passed, no W+X pages found.
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.085441] x86/mm: Checking user space page tables
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092572] x86/mm: Checked W+X mappings: passed, no W+X pages found.
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092574] Vivek Senapati: UID        PID  PPID  C STIME TTY          TIME CMD
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092576] Vivek Senapati: root         1     0  0 21:34 ?        00:00:04 [swapper/0]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092578] Vivek Senapati: root         2     0  0 21:34 ?        00:00:00 [kthreadd]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092579] Vivek Senapati: root         3     2  0 21:34 ?        00:00:00 [rcu_gp]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092580] Vivek Senapati: root         4     2  0 21:34 ?        00:00:00 [rcu_par_gp]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092581] Vivek Senapati: root         5     2  0 21:34 ?        00:00:00 [kworker/0:0]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092582] Vivek Senapati: root         6     2  0 21:34 ?        00:00:00 [kworker/0:0H]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092584] Vivek Senapati: root         7     2  0 21:34 ?        00:00:00 [kworker/0:1]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092585] Vivek Senapati: root         8     2  0 21:34 ?        00:00:00 [kworker/u12:0]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092586] Vivek Senapati: root         9     2  0 21:34 ?        00:00:00 [mm_percpu_wq]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092587] Vivek Senapati: root        10     2  0 21:34 ?        00:00:00 [Vivek Senapati:]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092588] Vivek Senapati: root        11     2  0 21:34 ?        00:00:00 [ksoftirqd/0]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092589] Vivek Senapati: root        12     2  0 21:34 ?        00:00:00 [rcu_sched]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092591] Vivek Senapati: root        13     2  0 21:34 ?        00:00:00 [migration/0]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092592] Vivek Senapati: root        14     2  0 21:34 ?        00:00:00 [idle_inject/0]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092593] Vivek Senapati: root        15     2  0 21:34 ?        00:00:00 [cpuhp/0]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092594] Vivek Senapati: root        16     2  0 21:34 ?        00:00:00 [cpuhp/1]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092596] Vivek Senapati: root        17     2  0 21:34 ?        00:00:00 [idle_inject/1]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092597] Vivek Senapati: root        18     2  0 21:34 ?        00:00:00 [migration/1]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092598] Vivek Senapati: root        19     2  0 21:34 ?        00:00:00 [ksoftirqd/1]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092599] Vivek Senapati: root        20     2  0 21:34 ?        00:00:00 [Vivek Senapati:]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092601] Vivek Senapati: root        21     2  0 21:34 ?        00:00:00 [kworker/1:0]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092602] Vivek Senapati: root        22     2  0 21:34 ?        00:00:00 [kworker/1:0H]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092603] Vivek Senapati: root        23     2  0 21:34 ?        00:00:00 [cpuhp/2]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092604] Vivek Senapati: root        24     2  0 21:34 ?        00:00:00 [idle_inject/2]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092606] Vivek Senapati: root        25     2  0 21:34 ?        00:00:00 [migration/2]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092607] Vivek Senapati: root        26     2  0 21:34 ?        00:00:00 [ksoftirqd/2]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092608] Vivek Senapati: root        27     2  0 21:34 ?        00:00:00 [Vivek Senapati:]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092609] Vivek Senapati: root        28     2  0 21:34 ?        00:00:00 [kworker/2:0]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092610] Vivek Senapati: root        29     2  0 21:34 ?        00:00:00 [kworker/2:0H]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092612] Vivek Senapati: root        30     2  0 21:34 ?        00:00:00 [cpuhp/3]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092613] Vivek Senapati: root        31     2  0 21:34 ?        00:00:00 [idle_inject/3]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092614] Vivek Senapati: root        32     2  0 21:34 ?        00:00:00 [migration/3]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092615] Vivek Senapati: root        33     2  0 21:34 ?        00:00:00 [ksoftirqd/3]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092617] Vivek Senapati: root        34     2  0 21:34 ?        00:00:00 [Vivek Senapati:]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092618] Vivek Senapati: root        35     2  0 21:34 ?        00:00:00 [kworker/3:0]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092619] Vivek Senapati: root        36     2  0 21:34 ?        00:00:00 [kworker/3:0H]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092620] Vivek Senapati: root        37     2  0 21:34 ?        00:00:00 [cpuhp/4]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092621] Vivek Senapati: root        38     2  0 21:34 ?        00:00:00 [idle_inject/4]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092623] Vivek Senapati: root        39     2  0 21:34 ?        00:00:00 [migration/4]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092624] Vivek Senapati: root        40     2  0 21:34 ?        00:00:00 [ksoftirqd/4]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092625] Vivek Senapati: root        41     2  0 21:34 ?        00:00:00 [Vivek Senapati:]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092626] Vivek Senapati: root        42     2  0 21:34 ?        00:00:00 [kworker/4:0]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092627] Vivek Senapati: root        43     2  0 21:34 ?        00:00:00 [kworker/4:0H]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092629] Vivek Senapati: root        44     2  0 21:34 ?        00:00:00 [cpuhp/5]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092630] Vivek Senapati: root        45     2  0 21:34 ?        00:00:00 [idle_inject/5]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092631] Vivek Senapati: root        46     2  0 21:34 ?        00:00:00 [migration/5]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092632] Vivek Senapati: root        47     2  0 21:34 ?        00:00:00 [ksoftirqd/5]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092633] Vivek Senapati: root        48     2  0 21:34 ?        00:00:00 [Vivek Senapati:]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092635] Vivek Senapati: root        49     2  0 21:34 ?        00:00:00 [kworker/5:0]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092636] Vivek Senapati: root        50     2  0 21:34 ?        00:00:00 [kworker/5:0H]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092637] Vivek Senapati: root        51     2  0 21:34 ?        00:00:00 [kdevtmpfs]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092638] Vivek Senapati: root        52     2  0 21:34 ?        00:00:00 [netns]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092639] Vivek Senapati: root        53     2  0 21:34 ?        00:00:00 [rcu_tasks_kthre]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092640] Vivek Senapati: root        54     2  0 21:34 ?        00:00:00 [kauditd]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092642] Vivek Senapati: root        55     2  0 21:34 ?        00:00:00 [khungtaskd]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092643] Vivek Senapati: root        56     2  0 21:34 ?        00:00:00 [oom_reaper]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092644] Vivek Senapati: root        57     2  0 21:34 ?        00:00:00 [writeback]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092645] Vivek Senapati: root        58     2  0 21:34 ?        00:00:00 [kcompactd0]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092647] Vivek Senapati: root        59     2  0 21:34 ?        00:00:00 [ksmd]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092648] Vivek Senapati: root        60     2  0 21:34 ?        00:00:00 [khugepaged]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092649] Vivek Senapati: root        62     2  0 21:34 ?        00:00:00 [kworker/u12:1]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092650] Vivek Senapati: root        66     2  0 21:34 ?        00:00:00 [kworker/1:1]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092652] Vivek Senapati: root       153     2  0 21:34 ?        00:00:00 [kintegrityd]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092653] Vivek Senapati: root       154     2  0 21:34 ?        00:00:00 [kblockd]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092654] Vivek Senapati: root       155     2  0 21:34 ?        00:00:00 [blkcg_punt_bio]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092655] Vivek Senapati: root       156     2  0 21:34 ?        00:00:00 [kworker/2:1]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092657] Vivek Senapati: root       157     2  0 21:34 ?        00:00:00 [tpm_dev_wq]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092658] Vivek Senapati: root       158     2  0 21:34 ?        00:00:00 [ata_sff]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092659] Vivek Senapati: root       159     2  0 21:34 ?        00:00:00 [md]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092660] Vivek Senapati: root       160     2  0 21:34 ?        00:00:00 [edac-poller]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092662] Vivek Senapati: root       161     2  0 21:34 ?        00:00:00 [devfreq_wq]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092663] Vivek Senapati: root       162     2  0 21:34 ?        00:00:00 [watchdogd]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092664] Vivek Senapati: root       164     2  0 21:34 ?        00:00:00 [kworker/3:1]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092665] Vivek Senapati: root       165     2  0 21:34 ?        00:00:00 [kworker/4:1]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092666] Vivek Senapati: root       168     2  0 21:34 ?        00:00:00 [kswapd0]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092667] Vivek Senapati: root       169     2  0 21:34 ?        00:00:00 [ecryptfs-kthrea]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092669] Vivek Senapati: root       172     2  0 21:34 ?        00:00:00 [kthrotld]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092670] Vivek Senapati: root       173     2  0 21:34 ?        00:00:00 [acpi_thermal_pm]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092671] Vivek Senapati: root       174     2  0 21:34 ?        00:00:00 [scsi_eh_0]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092673] Vivek Senapati: root       175     2  0 21:34 ?        00:00:00 [scsi_tmf_0]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092674] Vivek Senapati: root       176     2  0 21:34 ?        00:00:00 [scsi_eh_1]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092675] Vivek Senapati: root       177     2  0 21:34 ?        00:00:00 [scsi_tmf_1]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092676] Vivek Senapati: root       178     2  0 21:34 ?        00:00:00 [kworker/u12:2]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092677] Vivek Senapati: root       179     2  0 21:34 ?        00:00:00 [kworker/u12:3]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092678] Vivek Senapati: root       180     2  0 21:34 ?        00:00:00 [ipv6_addrconf]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092680] Vivek Senapati: root       191     2  0 21:34 ?        00:00:00 [kstrp]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092681] Vivek Senapati: root       195     2  0 21:34 ?        00:00:00 [kworker/u13:0]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092682] Vivek Senapati: root       211     2  0 21:34 ?        00:00:00 [charger_manager]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092683] Vivek Senapati: root       212     2  0 21:34 ?        00:00:00 [kworker/3:1H]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092685] Vivek Senapati: root       213     2  0 21:34 ?        00:00:00 [kworker/0:2]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092686] Vivek Senapati: root       214     2  0 21:34 ?        00:00:00 [kworker/5:1]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092686] Vivek Senapati: my_kthread_do* are about to be created.
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092686] Vivek Senapati: Calling kthread(my_kthread_do_task_1)
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092710] Vivek Senapati: my_kthread_do_task_1 pid = 215
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092710] Vivek Senapati: Calling kthread(my_kthread_do_task_2)
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092718] Vivek Senapati: my_kthread_do_task_2 pid = 216
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092719] Vivek Senapati: my_kthread_do* have been created.
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092720] Vivek Senapati: UID        PID  PPID  C STIME TTY          TIME CMD
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092721] Vivek Senapati: root         1     0  0 21:34 ?        00:00:04 [swapper/0]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092722] Vivek Senapati: root         2     0  0 21:34 ?        00:00:00 [kthreadd]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092723] Vivek Senapati: root         3     2  0 21:34 ?        00:00:00 [rcu_gp]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092724] Vivek Senapati: root         4     2  0 21:34 ?        00:00:00 [rcu_par_gp]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092725] Vivek Senapati: root         5     2  0 21:34 ?        00:00:00 [kworker/0:0]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092726] Vivek Senapati: root         6     2  0 21:34 ?        00:00:00 [kworker/0:0H]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092727] Vivek Senapati: root         7     2  0 21:34 ?        00:00:00 [kworker/0:1]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092728] Vivek Senapati: root         8     2  0 21:34 ?        00:00:00 [kworker/u12:0]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092729] Vivek Senapati: root         9     2  0 21:34 ?        00:00:00 [mm_percpu_wq]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092730] Vivek Senapati: root        10     2  0 21:34 ?        00:00:00 [Vivek Senapati:]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092731] Vivek Senapati: root        11     2  0 21:34 ?        00:00:00 [ksoftirqd/0]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092732] Vivek Senapati: root        12     2  0 21:34 ?        00:00:00 [rcu_sched]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092773] Vivek Senapati: root        13     2  0 21:34 ?        00:00:00 [migration/0]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092774] Vivek Senapati: root        14     2  0 21:34 ?        00:00:00 [idle_inject/0]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092775] Vivek Senapati: root        15     2  0 21:34 ?        00:00:00 [cpuhp/0]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092776] Vivek Senapati: root        16     2  0 21:34 ?        00:00:00 [cpuhp/1]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092785] Vivek Senapati: root        17     2  0 21:34 ?        00:00:00 [idle_inject/1]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092795] Vivek Senapati: task_1 is about to schedule.
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092815] Vivek Senapati: root        18     2  0 21:34 ?        00:00:00 [migration/1]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092816] Vivek Senapati: task_1 has been scheduled.
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092817] Vivek Senapati: root        19     2  0 21:34 ?        00:00:00 [ksoftirqd/1]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092817] Vivek Senapati: task_2 is about to schedule.
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092818] Vivek Senapati: root        20     2  0 21:34 ?        00:00:00 [Vivek Senapati:]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092820] Vivek Senapati: root        21     2  0 21:34 ?        00:00:00 [kworker/1:0]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092821] Vivek Senapati: root        22     2  0 21:34 ?        00:00:00 [kworker/1:0H]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092821] Vivek Senapati: task_2 has been scheduled.
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092823] Vivek Senapati: root        23     2  0 21:34 ?        00:00:00 [cpuhp/2]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092824] Vivek Senapati: root        24     2  0 21:34 ?        00:00:00 [idle_inject/2]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092825] Vivek Senapati: root        25     2  0 21:34 ?        00:00:00 [migration/2]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092826] Vivek Senapati: root        26     2  0 21:34 ?        00:00:00 [ksoftirqd/2]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092827] Vivek Senapati: root        27     2  0 21:34 ?        00:00:00 [Vivek Senapati:]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092828] Vivek Senapati: root        28     2  0 21:34 ?        00:00:00 [kworker/2:0]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092829] Vivek Senapati: root        29     2  0 21:34 ?        00:00:00 [kworker/2:0H]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092830] Vivek Senapati: root        30     2  0 21:34 ?        00:00:00 [cpuhp/3]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092831] Vivek Senapati: root        31     2  0 21:34 ?        00:00:00 [idle_inject/3]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092832] Vivek Senapati: root        32     2  0 21:34 ?        00:00:00 [migration/3]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092833] Vivek Senapati: root        33     2  0 21:34 ?        00:00:00 [ksoftirqd/3]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092834] Vivek Senapati: root        34     2  0 21:34 ?        00:00:00 [Vivek Senapati:]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092836] Vivek Senapati: root        35     2  0 21:34 ?        00:00:00 [kworker/3:0]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092837] Vivek Senapati: root        36     2  0 21:34 ?        00:00:00 [kworker/3:0H]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092838] Vivek Senapati: root        37     2  0 21:34 ?        00:00:00 [cpuhp/4]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092839] Vivek Senapati: root        38     2  0 21:34 ?        00:00:00 [idle_inject/4]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092840] Vivek Senapati: root        39     2  0 21:34 ?        00:00:00 [migration/4]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092841] Vivek Senapati: root        40     2  0 21:34 ?        00:00:00 [ksoftirqd/4]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092842] Vivek Senapati: root        41     2  0 21:34 ?        00:00:00 [Vivek Senapati:]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092843] Vivek Senapati: root        42     2  0 21:34 ?        00:00:00 [kworker/4:0]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092844] Vivek Senapati: root        43     2  0 21:34 ?        00:00:00 [kworker/4:0H]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092845] Vivek Senapati: root        44     2  0 21:34 ?        00:00:00 [cpuhp/5]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092846] Vivek Senapati: root        45     2  0 21:34 ?        00:00:00 [idle_inject/5]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092847] Vivek Senapati: root        46     2  0 21:34 ?        00:00:00 [migration/5]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092848] Vivek Senapati: root        47     2  0 21:34 ?        00:00:00 [ksoftirqd/5]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092850] Vivek Senapati: root        48     2  0 21:34 ?        00:00:00 [Vivek Senapati:]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092851] Vivek Senapati: root        49     2  0 21:34 ?        00:00:00 [kworker/5:0]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092852] Vivek Senapati: root        50     2  0 21:34 ?        00:00:00 [kworker/5:0H]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092853] Vivek Senapati: root        51     2  0 21:34 ?        00:00:00 [kdevtmpfs]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092854] Vivek Senapati: root        52     2  0 21:34 ?        00:00:00 [netns]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092855] Vivek Senapati: root        53     2  0 21:34 ?        00:00:00 [rcu_tasks_kthre]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092856] Vivek Senapati: root        54     2  0 21:34 ?        00:00:00 [kauditd]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092857] Vivek Senapati: root        55     2  0 21:34 ?        00:00:00 [khungtaskd]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092858] Vivek Senapati: root        56     2  0 21:34 ?        00:00:00 [oom_reaper]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092859] Vivek Senapati: root        57     2  0 21:34 ?        00:00:00 [writeback]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092860] Vivek Senapati: root        58     2  0 21:34 ?        00:00:00 [kcompactd0]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092862] Vivek Senapati: root        59     2  0 21:34 ?        00:00:00 [ksmd]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092863] Vivek Senapati: root        60     2  0 21:34 ?        00:00:00 [khugepaged]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092864] Vivek Senapati: root        62     2  0 21:34 ?        00:00:00 [kworker/u12:1]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092865] Vivek Senapati: root        66     2  0 21:34 ?        00:00:00 [kworker/1:1]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092866] Vivek Senapati: root       153     2  0 21:34 ?        00:00:00 [kintegrityd]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092867] Vivek Senapati: root       154     2  0 21:34 ?        00:00:00 [kblockd]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092868] Vivek Senapati: root       155     2  0 21:34 ?        00:00:00 [blkcg_punt_bio]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092869] Vivek Senapati: root       156     2  0 21:34 ?        00:00:00 [kworker/2:1]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092870] Vivek Senapati: root       157     2  0 21:34 ?        00:00:00 [tpm_dev_wq]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092871] Vivek Senapati: root       158     2  0 21:34 ?        00:00:00 [ata_sff]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092872] Vivek Senapati: root       159     2  0 21:34 ?        00:00:00 [md]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092873] Vivek Senapati: root       160     2  0 21:34 ?        00:00:00 [edac-poller]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092888] Vivek Senapati: root       161     2  0 21:34 ?        00:00:00 [devfreq_wq]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092889] Vivek Senapati: root       162     2  0 21:34 ?        00:00:00 [watchdogd]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092890] Vivek Senapati: root       164     2  0 21:34 ?        00:00:00 [kworker/3:1]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092891] Vivek Senapati: root       165     2  0 21:34 ?        00:00:00 [kworker/4:1]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092892] Vivek Senapati: root       168     2  0 21:34 ?        00:00:00 [kswapd0]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092893] Vivek Senapati: root       169     2  0 21:34 ?        00:00:00 [ecryptfs-kthrea]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092894] Vivek Senapati: root       172     2  0 21:34 ?        00:00:00 [kthrotld]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092895] Vivek Senapati: root       173     2  0 21:34 ?        00:00:00 [acpi_thermal_pm]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092910] Vivek Senapati: root       174     2  0 21:34 ?        00:00:00 [scsi_eh_0]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092911] Vivek Senapati: root       175     2  0 21:34 ?        00:00:00 [scsi_tmf_0]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092912] Vivek Senapati: root       176     2  0 21:34 ?        00:00:00 [scsi_eh_1]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092913] Vivek Senapati: root       177     2  0 21:34 ?        00:00:00 [scsi_tmf_1]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092914] Vivek Senapati: root       178     2  0 21:34 ?        00:00:00 [kworker/u12:2]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092915] Vivek Senapati: root       179     2  0 21:34 ?        00:00:00 [kworker/u12:3]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092916] Vivek Senapati: root       180     2  0 21:34 ?        00:00:00 [ipv6_addrconf]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092917] Vivek Senapati: root       191     2  0 21:34 ?        00:00:00 [kstrp]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092918] Vivek Senapati: root       195     2  0 21:34 ?        00:00:00 [kworker/u13:0]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092919] Vivek Senapati: root       211     2  0 21:34 ?        00:00:00 [charger_manager]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092920] Vivek Senapati: root       212     2  0 21:34 ?        00:00:00 [kworker/3:1H]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092921] Vivek Senapati: root       213     2  0 21:34 ?        00:00:00 [kworker/0:2]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092922] Vivek Senapati: root       214     2  0 21:34 ?        00:00:00 [kworker/5:1]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092923] Vivek Senapati: root       215     1  0 21:34 ?        00:00:00 [Vivek Senapati:]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092924] Vivek Senapati: root       216     1  0 21:34 ?        00:00:00 [Vivek Senapati:]
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.092924] Run /init as init process
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.142838] ACPI: Video Device [GFX0] (multi-head: yes  rom: no  post: no)
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.143070] input: Video Bus as /devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A03:00/LNXVIDEO:00/input/input4
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.144058] piix4_smbus 0000:00:07.0: SMBus Host Controller at 0x4100, revision 0
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.148541] ahci 0000:00:0d.0: version 3.0
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.149181] ahci 0000:00:0d.0: SSS flag set, parallel bus scan disabled
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.149294] ahci 0000:00:0d.0: AHCI 0001.0100 32 slots 1 ports 3 Gbps 0x1 impl SATA mode
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.149296] ahci 0000:00:0d.0: flags: 64bit ncq stag only ccc 
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.149767] scsi host2: ahci
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.149817] ata3: SATA max UDMA/133 abar m8192@0xf1806000 port 0xf1806100 irq 21
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.152888] e1000: Intel(R) PRO/1000 Network Driver - version 7.3.21-k8-NAPI
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.152888] e1000: Copyright (c) 1999-2006 Intel Corporation.
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.272344] usb 1-1: new full-speed USB device number 2 using ohci-pci
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.370716] input: ImExPS/2 Generic Explorer Mouse as /devices/platform/i8042/serio1/input/input5
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.464616] ata3: SATA link up 3.0 Gbps (SStatus 123 SControl 300)
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.464822] ata3.00: ATA-6: VBOX HARDDISK, 1.0, max UDMA/133
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.464823] ata3.00: 104857600 sectors, multi 128: LBA48 NCQ (depth 32)
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.465193] ata3.00: configured for UDMA/133
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.465332] scsi 2:0:0:0: Direct-Access     ATA      VBOX HARDDISK    1.0  PQ: 0 ANSI: 5
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.465528] sd 2:0:0:0: [sda] 104857600 512-byte logical blocks: (53.7 GB/50.0 GiB)
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.465533] sd 2:0:0:0: [sda] Write Protect is off
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.465534] sd 2:0:0:0: [sda] Mode Sense: 00 3a 00 00
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.465554] sd 2:0:0:0: [sda] Write cache: enabled, read cache: enabled, doesn't support DPO or FUA
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.465574] sd 2:0:0:0: Attached scsi generic sg1 type 0
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.515749]  sda: sda1
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.515976] sd 2:0:0:0: [sda] Attached SCSI disk
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.540960] e1000 0000:00:03.0 eth0: (PCI:33MHz:32-bit) 08:00:27:ca:b6:14
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.540963] e1000 0000:00:03.0 eth0: Intel(R) PRO/1000 Network Connection
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.541732] e1000 0000:00:03.0 enp0s3: renamed from eth0
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.592935] usb 1-1: New USB device found, idVendor=80ee, idProduct=0021, bcdDevice= 1.00
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.592937] usb 1-1: New USB device strings: Mfr=1, Product=3, SerialNumber=0
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.592939] usb 1-1: Product: USB Tablet
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.592940] usb 1-1: Manufacturer: VirtualBox
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.608801] hid: raw HID events driver (C) Jiri Kosina
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.626578] usbcore: registered new interface driver usbhid
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.626579] usbhid: USB HID core driver
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.629383] input: VirtualBox USB Tablet as /devices/pci0000:00/0000:00:06.0/usb1/1-1/1-1:1.0/0003:80EE:0021.0001/input/input6
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.630030] hid-generic 0003:80EE:0021.0001: input,hidraw0: USB HID v1.10 Mouse [VirtualBox USB Tablet] on usb-0000:00:06.0-1/input0
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.676138] EXT4-fs (sda1): mounted filesystem with ordered data mode. Opts: (null)
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.868987] systemd[1]: systemd 237 running in system mode. (+PAM +AUDIT +SELINUX +IMA +APPARMOR +SMACK +SYSVINIT +UTMP +LIBCRYPTSETUP +GCRYPT +GNUTLS +ACL +XZ +LZ4 +SECCOMP +BLKID +ELFUTILS +KMOD -IDN2 +IDN -PCRE2 default-hierarchy=hybrid)
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.869008] systemd[1]: Detected virtualization oracle.
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.869014] systemd[1]: Detected architecture x86-64.
+May  3 17:34:38 vivek-VirtualBox kernel: [    5.998431] systemd[1]: Set hostname to <vivek-VirtualBox>.
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.133908] systemd[1]: Started Forward Password Requests to Wall Directory Watch.
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.133934] systemd[1]: Reached target Remote File Systems.
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.134055] systemd[1]: Created slice User and Session Slice.
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.134168] systemd[1]: Created slice System Slice.
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.134240] systemd[1]: Listening on Journal Socket.
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.134704] systemd[1]: Mounting Huge Pages File System...
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.143745] EXT4-fs (sda1): re-mounted. Opts: errors=remount-ro
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.156787] lp: driver loaded but no devices found
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.160108] ppdev: user-space parallel port driver
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.195606] systemd-journald[344]: Received request to flush runtime journal from PID 1
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.228164] Adding 2097148k swap on /swapfile.  Priority:-2 extents:6 across:2260988k FS
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.378574] RAPL PMU: API unit is 2^-32 Joules, 0 fixed counters, 10737418240 ms ovfl timer
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.400765] audit: type=1400 audit(1588541678.580:2): apparmor="STATUS" operation="profile_load" profile="unconfined" name="libreoffice-senddoc" pid=510 comm="apparmor_parser"
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.401149] audit: type=1400 audit(1588541678.580:3): apparmor="STATUS" operation="profile_load" profile="unconfined" name="libreoffice-oopslash" pid=509 comm="apparmor_parser"
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.403892] audit: type=1400 audit(1588541678.580:4): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/bin/man" pid=508 comm="apparmor_parser"
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.403894] audit: type=1400 audit(1588541678.580:5): apparmor="STATUS" operation="profile_load" profile="unconfined" name="man_filter" pid=508 comm="apparmor_parser"
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.403896] audit: type=1400 audit(1588541678.580:6): apparmor="STATUS" operation="profile_load" profile="unconfined" name="man_groff" pid=508 comm="apparmor_parser"
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.411836] audit: type=1400 audit(1588541678.588:7): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/sbin/cups-browsed" pid=517 comm="apparmor_parser"
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.412851] audit: type=1400 audit(1588541678.592:8): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/sbin/dhclient" pid=505 comm="apparmor_parser"
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.412853] audit: type=1400 audit(1588541678.592:9): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-client.action" pid=505 comm="apparmor_parser"
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.412854] audit: type=1400 audit(1588541678.592:10): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-helper" pid=505 comm="apparmor_parser"
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.412855] audit: type=1400 audit(1588541678.592:11): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/connman/scripts/dhclient-script" pid=505 comm="apparmor_parser"
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.442265] cryptd: max_cpu_qlen set to 1000
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.453108] AVX2 version of gcm_enc/dec engaged.
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.453109] AES CTR mode by8 optimization enabled
+May  3 17:34:38 vivek-VirtualBox dbus-daemon[612]: dbus[612]: Unknown group "power" in message bus configuration file
+May  3 17:34:38 vivek-VirtualBox ModemManager[610]: <info>  ModemManager (version 1.10.0) starting in system bus...
+May  3 17:34:38 vivek-VirtualBox systemd[1]: Starting WPA supplicant...
+May  3 17:34:38 vivek-VirtualBox anacron[687]: Anacron 2.3 started on 2020-05-03
+May  3 17:34:38 vivek-VirtualBox thermald[608]: NO RAPL sysfs present
+May  3 17:34:38 vivek-VirtualBox thermald[608]: 22 CPUID levels; family:model:stepping 0x6:9e:a (6:158:10)
+May  3 17:34:38 vivek-VirtualBox thermald[608]: Polling mode is enabled: 4
+May  3 17:34:38 vivek-VirtualBox thermald[608]: Thermal DTS: No coretemp sysfs found
+May  3 17:34:38 vivek-VirtualBox thermald[608]: Thermal DTS or hwmon: No Zones present Need to configure manually
+May  3 17:34:38 vivek-VirtualBox thermald[608]: No thermal sensors found
+May  3 17:34:38 vivek-VirtualBox thermald[608]: THD engine start failed
+May  3 17:34:38 vivek-VirtualBox systemd[1]: Starting LSB: Speech Dispatcher...
+May  3 17:34:38 vivek-VirtualBox dbus-daemon[612]: [system] Activating via systemd: service name='org.freedesktop.PolicyKit1' unit='polkit.service' requested by ':1.4' (uid=0 pid=610 comm="/usr/sbin/ModemManager --filter-policy=strict ")
+May  3 17:34:38 vivek-VirtualBox systemd[1]: Starting LSB: Record successful boot for GRUB...
+May  3 17:34:38 vivek-VirtualBox avahi-daemon[602]: Successfully called chroot().
+May  3 17:34:38 vivek-VirtualBox systemd[1]: Started ACPI event daemon.
+May  3 17:34:38 vivek-VirtualBox avahi-daemon[602]: Successfully dropped remaining capabilities.
+May  3 17:34:38 vivek-VirtualBox systemd[1]: Started Run anacron jobs.
+May  3 17:34:38 vivek-VirtualBox avahi-daemon[602]: No service file found in /etc/avahi/services.
+May  3 17:34:38 vivek-VirtualBox systemd[1]: Starting Dispatcher daemon for systemd-networkd...
+May  3 17:34:38 vivek-VirtualBox anacron[687]: Normal exit (0 jobs run)
+May  3 17:34:38 vivek-VirtualBox systemd[1]: Starting Network Manager...
+May  3 17:34:38 vivek-VirtualBox avahi-daemon[602]: Joining mDNS multicast group on interface lo.IPv6 with address ::1.
+May  3 17:34:38 vivek-VirtualBox systemd[1]: Starting Detect the available GPUs and deal with any system changes...
+May  3 17:34:38 vivek-VirtualBox avahi-daemon[602]: New relevant interface lo.IPv6 for mDNS.
+May  3 17:34:38 vivek-VirtualBox systemd[1]: Starting LSB: automatic crash report generation...
+May  3 17:34:38 vivek-VirtualBox avahi-daemon[602]: Joining mDNS multicast group on interface lo.IPv4 with address 127.0.0.1.
+May  3 17:34:38 vivek-VirtualBox systemd[1]: Starting Login Service...
+May  3 17:34:38 vivek-VirtualBox avahi-daemon[602]: New relevant interface lo.IPv4 for mDNS.
+May  3 17:34:38 vivek-VirtualBox systemd[1]: Starting Restore /etc/resolv.conf if the system crashed before the ppp link was shut down...
+May  3 17:34:38 vivek-VirtualBox avahi-daemon[602]: Network interface enumeration completed.
+May  3 17:34:38 vivek-VirtualBox systemd[1]: Starting Accounts Service...
+May  3 17:34:38 vivek-VirtualBox avahi-daemon[602]: Registering new address record for ::1 on lo.*.
+May  3 17:34:38 vivek-VirtualBox systemd[1]: Reached target Login Prompts.
+May  3 17:34:38 vivek-VirtualBox avahi-daemon[602]: Registering new address record for 127.0.0.1 on lo.IPv4.
+May  3 17:34:38 vivek-VirtualBox systemd[1]: Started Regular background program processing daemon.
+May  3 17:34:38 vivek-VirtualBox cron[706]: (CRON) INFO (pidfile fd = 3)
+May  3 17:34:38 vivek-VirtualBox systemd[1]: Starting Disk Manager...
+May  3 17:34:38 vivek-VirtualBox systemd[1]: Started System Logging Service.
+May  3 17:34:38 vivek-VirtualBox systemd[1]: Mounted Mount unit for gnome-3-28-1804, revision 116.
+May  3 17:34:38 vivek-VirtualBox systemd[1]: Started Raise network interfaces.
+May  3 17:34:38 vivek-VirtualBox systemd[1]: Started Thermal Daemon Service.
+May  3 17:34:38 vivek-VirtualBox udisksd[709]: udisks daemon version 2.7.6 starting
+May  3 17:34:38 vivek-VirtualBox cron[706]: (CRON) INFO (Running @reboot jobs)
+May  3 17:34:38 vivek-VirtualBox systemd[1]: Started Restore /etc/resolv.conf if the system crashed before the ppp link was shut down.
+May  3 17:34:38 vivek-VirtualBox wpa_supplicant[681]: Successfully initialized wpa_supplicant
+May  3 17:34:38 vivek-VirtualBox grub-common[683]:  * Recording successful boot for GRUB
+May  3 17:34:38 vivek-VirtualBox speech-dispatcher[682]:  * speech-dispatcher disabled; edit /etc/default/speech-dispatcher
+May  3 17:34:38 vivek-VirtualBox systemd[1]: Started LSB: Speech Dispatcher.
+May  3 17:34:38 vivek-VirtualBox systemd[1]: Started Avahi mDNS/DNS-SD Stack.
+May  3 17:34:38 vivek-VirtualBox systemd[1]: Started WPA supplicant.
+May  3 17:34:38 vivek-VirtualBox systemd[1]: Starting Authorization Manager...
+May  3 17:34:38 vivek-VirtualBox systemd[1]: Started Make remote CUPS printers available locally.
+May  3 17:34:38 vivek-VirtualBox apport[699]:  * Starting automatic crash report generation: apport
+May  3 17:34:38 vivek-VirtualBox apport[699]:    ...done.
+May  3 17:34:38 vivek-VirtualBox grub-common[683]:    ...done.
+May  3 17:34:38 vivek-VirtualBox systemd[1]: Started LSB: automatic crash report generation.
+May  3 17:34:38 vivek-VirtualBox systemd[1]: Started LSB: Record successful boot for GRUB.
+May  3 17:34:38 vivek-VirtualBox gpu-manager[698]: Error: can't open /lib/modules/5.5.9/updates/dkms
+May  3 17:34:38 vivek-VirtualBox gpu-manager[698]: Error: can't open /lib/modules/5.5.9/updates/dkms
+May  3 17:34:38 vivek-VirtualBox systemd[1]: Started Detect the available GPUs and deal with any system changes.
+May  3 17:34:38 vivek-VirtualBox udisksd[709]: failed to load module mdraid: libbd_mdraid.so.2: cannot open shared object file: No such file or directory
+May  3 17:34:38 vivek-VirtualBox polkitd[738]: started daemon version 0.105 using authority implementation `local' version `0.105'
+May  3 17:34:38 vivek-VirtualBox dbus-daemon[612]: [system] Successfully activated service 'org.freedesktop.PolicyKit1'
+May  3 17:34:38 vivek-VirtualBox systemd[1]: Started Authorization Manager.
+May  3 17:34:38 vivek-VirtualBox udisksd[709]: Failed to load the 'mdraid' libblockdev plugin
+May  3 17:34:38 vivek-VirtualBox NetworkManager[696]: <info>  [1588541678.8339] NetworkManager (version 1.10.6) is starting... (for the first time)
+May  3 17:34:38 vivek-VirtualBox NetworkManager[696]: <info>  [1588541678.8340] Read config: /etc/NetworkManager/NetworkManager.conf (lib: 10-dns-resolved.conf, 20-connectivity-ubuntu.conf, no-mac-addr-change.conf) (run: 10-globally-managed-devices.conf) (etc: default-wifi-powersave-on.conf)
+May  3 17:34:38 vivek-VirtualBox accounts-daemon[703]: started daemon version 0.6.45
+May  3 17:34:38 vivek-VirtualBox systemd[1]: Started Accounts Service.
+May  3 17:34:38 vivek-VirtualBox systemd[1]: Mounted Mount unit for gnome-system-monitor, revision 127.
+May  3 17:34:38 vivek-VirtualBox systemd[1]: Mounted Mount unit for core18, revision 1754.
+May  3 17:34:38 vivek-VirtualBox NetworkManager[696]: <info>  [1588541678.8470] manager[0x557afc027060]: monitoring kernel firmware directory '/lib/firmware'.
+May  3 17:34:38 vivek-VirtualBox NetworkManager[696]: <info>  [1588541678.8471] monitoring ifupdown state file '/run/network/ifstate'.
+May  3 17:34:38 vivek-VirtualBox dbus-daemon[612]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.11' (uid=0 pid=696 comm="/usr/sbin/NetworkManager --no-daemon ")
+May  3 17:34:38 vivek-VirtualBox systemd[1]: Starting Hostname Service...
+May  3 17:34:38 vivek-VirtualBox systemd[1]: Started Modem Manager.
+May  3 17:34:38 vivek-VirtualBox systemd[1]: Started Login Service.
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.718738] [drm] DMA map mode: Caching DMA mappings.
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.718774] [drm] Capabilities:
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.718774] [drm]   Cursor.
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.718775] [drm]   Cursor bypass 2.
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.718775] [drm]   Alpha cursor.
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.718775] [drm]   3D.
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.718776] [drm]   Extended Fifo.
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.718776] [drm]   Pitchlock.
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.718776] [drm]   Irq mask.
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.718777] [drm]   GMR.
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.718777] [drm]   Traces.
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.718777] [drm]   GMR2.
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.718777] [drm]   Screen Object 2.
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.718778] [drm] Max GMR ids is 8192
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.718779] [drm] Max number of GMR pages is 1048576
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.718779] [drm] Max dedicated hypervisor surface memory is 507904 kiB
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.718780] [drm] Maximum display memory size is 16384 kiB
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.718780] [drm] VRAM at 0xf0000000 size is 16384 kiB
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.718781] [drm] MMIO at 0xf1000000 size is 2048 kiB
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.719113] [TTM] Zone  kernel: Available graphics memory: 3043980 KiB
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.719113] [TTM] Zone   dma32: Available graphics memory: 2097152 KiB
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.719114] [TTM] Initializing pool allocator
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.719116] [TTM] Initializing DMA pool allocator
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.719132] [drm] Supports vblank timestamp caching Rev 2 (21.10.2013).
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.719132] [drm] No driver support for vblank timestamp query.
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.719468] [drm] Screen Objects Display Unit initialized
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.719509] [drm] width 720
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.719518] [drm] height 400
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.719527] [drm] bpp 32
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.719657] [drm] Fifo max 0x00200000 min 0x00001000 cap 0x00000355
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.719663] [drm] DX: no.
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.719664] [drm] Atomic: yes.
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.719664] [drm] SM4_1: no.
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.719686] [drm:vmw_host_log [vmwgfx]] *ERROR* Failed to send host log message.
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.720873] [drm:vmw_host_log [vmwgfx]] *ERROR* Failed to send host log message.
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.722862] fbcon: svgadrmfb (fb0) is primary device
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.724213] Console: switching to colour frame buffer device 100x37
+May  3 17:34:38 vivek-VirtualBox kernel: [    6.724955] [drm] Initialized vmwgfx 2.16.0 20190328 for 0000:00:02.0 on minor 0
+May  3 17:34:38 vivek-VirtualBox systemd[1]: Mounted Mount unit for core, revision 9066.
+May  3 17:34:38 vivek-VirtualBox systemd[1]: Mounted Mount unit for wine-platform-runtime, revision 111.
+May  3 17:34:38 vivek-VirtualBox dbus-daemon[612]: [system] Successfully activated service 'org.freedesktop.hostname1'
+May  3 17:34:38 vivek-VirtualBox systemd[1]: Started Hostname Service.
+May  3 17:34:38 vivek-VirtualBox NetworkManager[696]: <info>  [1588541678.9343] hostname: hostname: using hostnamed
+May  3 17:34:38 vivek-VirtualBox NetworkManager[696]: <info>  [1588541678.9344] hostname: hostname changed from (none) to "vivek-VirtualBox"
+May  3 17:34:38 vivek-VirtualBox NetworkManager[696]: <info>  [1588541678.9347] dns-mgr[0x557afc01b1a0]: init: dns=systemd-resolved, rc-manager=symlink, plugin=systemd-resolved
+May  3 17:34:38 vivek-VirtualBox NetworkManager[696]: <info>  [1588541678.9351] manager[0x557afc027060]: rfkill: WiFi hardware radio set enabled
+May  3 17:34:38 vivek-VirtualBox NetworkManager[696]: <info>  [1588541678.9352] manager[0x557afc027060]: rfkill: WWAN hardware radio set enabled
+May  3 17:34:38 vivek-VirtualBox systemd[1]: Started Network Manager.
+May  3 17:34:38 vivek-VirtualBox systemd[1]: Reached target Network.
+May  3 17:34:38 vivek-VirtualBox systemd[1]: Started Unattended Upgrades Shutdown.
+May  3 17:34:38 vivek-VirtualBox systemd[1]: Starting Permit User Sessions...
+May  3 17:34:38 vivek-VirtualBox systemd[1]: Starting Network Manager Wait Online...
+May  3 17:34:38 vivek-VirtualBox systemd[1]: Started Permit User Sessions.
+May  3 17:34:38 vivek-VirtualBox dbus-daemon[612]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.11' (uid=0 pid=696 comm="/usr/sbin/NetworkManager --no-daemon ")
+May  3 17:34:38 vivek-VirtualBox systemd[1]: Starting Network Manager Script Dispatcher Service...
+May  3 17:34:38 vivek-VirtualBox systemd[1]: Starting Hold until boot process finishes up...
+May  3 17:34:38 vivek-VirtualBox systemd[1]: Starting GNOME Display Manager...
+May  3 17:34:38 vivek-VirtualBox acpid: starting up with netlink and the input layer
+May  3 17:34:38 vivek-VirtualBox dbus-daemon[612]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+May  3 17:34:38 vivek-VirtualBox systemd[1]: Started Network Manager Script Dispatcher Service.
+May  3 17:34:38 vivek-VirtualBox acpid: 8 rules loaded
+May  3 17:34:38 vivek-VirtualBox acpid: waiting for events: event logging is off
+May  3 17:34:38 vivek-VirtualBox NetworkManager[696]: <info>  [1588541678.9611] init!
+May  3 17:34:38 vivek-VirtualBox NetworkManager[696]: <info>  [1588541678.9613]       interface-parser: parsing file /etc/network/interfaces
+May  3 17:34:38 vivek-VirtualBox NetworkManager[696]: <info>  [1588541678.9613]       interface-parser: finished parsing file /etc/network/interfaces
+May  3 17:34:38 vivek-VirtualBox NetworkManager[696]: <info>  [1588541678.9613] management mode: unmanaged
+May  3 17:34:38 vivek-VirtualBox NetworkManager[696]: <info>  [1588541678.9616] devices added (path: /sys/devices/pci0000:00/0000:00:03.0/net/enp0s3, iface: enp0s3)
+May  3 17:34:38 vivek-VirtualBox NetworkManager[696]: <info>  [1588541678.9616] device added (path: /sys/devices/pci0000:00/0000:00:03.0/net/enp0s3, iface: enp0s3): no ifupdown configuration found.
+May  3 17:34:38 vivek-VirtualBox NetworkManager[696]: <info>  [1588541678.9616] devices added (path: /sys/devices/virtual/net/lo, iface: lo)
+May  3 17:34:38 vivek-VirtualBox NetworkManager[696]: <info>  [1588541678.9616] device added (path: /sys/devices/virtual/net/lo, iface: lo): no ifupdown configuration found.
+May  3 17:34:38 vivek-VirtualBox NetworkManager[696]: <info>  [1588541678.9616] end _init.
+May  3 17:34:38 vivek-VirtualBox NetworkManager[696]: <info>  [1588541678.9616] settings: loaded plugin ifupdown: (C) 2008 Canonical Ltd.  To report bugs please use the NetworkManager mailing list. (/usr/lib/x86_64-linux-gnu/NetworkManager/libnm-settings-plugin-ifupdown.so)
+May  3 17:34:38 vivek-VirtualBox NetworkManager[696]: <info>  [1588541678.9616] settings: loaded plugin keyfile: (c) 2007 - 2016 Red Hat, Inc.  To report bugs please use the NetworkManager mailing list.
+May  3 17:34:38 vivek-VirtualBox NetworkManager[696]: <info>  [1588541678.9617] (-66704256) ... get_connections.
+May  3 17:34:38 vivek-VirtualBox NetworkManager[696]: <info>  [1588541678.9617] (-66704256) ... get_connections (managed=false): return empty list.
+May  3 17:34:38 vivek-VirtualBox NetworkManager[696]: <info>  [1588541678.9620] get unmanaged devices count: 0
+May  3 17:34:38 vivek-VirtualBox NetworkManager[696]: <info>  [1588541678.9620] manager: rfkill: WiFi enabled by radio killswitch; enabled by state file
+May  3 17:34:38 vivek-VirtualBox NetworkManager[696]: <info>  [1588541678.9620] manager: rfkill: WWAN enabled by radio killswitch; enabled by state file
+May  3 17:34:38 vivek-VirtualBox NetworkManager[696]: <info>  [1588541678.9620] manager: Networking is enabled by state file
+May  3 17:34:38 vivek-VirtualBox NetworkManager[696]: <info>  [1588541678.9621] dhcp-init: Using DHCP client 'dhclient'
+May  3 17:34:38 vivek-VirtualBox NetworkManager[696]: <info>  [1588541678.9627] Loaded device plugin: NMBondDeviceFactory (internal)
+May  3 17:34:38 vivek-VirtualBox NetworkManager[696]: <info>  [1588541678.9628] Loaded device plugin: NMBridgeDeviceFactory (internal)
+May  3 17:34:38 vivek-VirtualBox NetworkManager[696]: <info>  [1588541678.9628] Loaded device plugin: NMDummyDeviceFactory (internal)
+May  3 17:34:38 vivek-VirtualBox NetworkManager[696]: <info>  [1588541678.9628] Loaded device plugin: NMEthernetDeviceFactory (internal)
+May  3 17:34:38 vivek-VirtualBox nm-dispatcher: req:1 'hostname': new request (1 scripts)
+May  3 17:34:38 vivek-VirtualBox NetworkManager[696]: <info>  [1588541678.9628] Loaded device plugin: NMInfinibandDeviceFactory (internal)
+May  3 17:34:38 vivek-VirtualBox nm-dispatcher: req:1 'hostname': start running ordered scripts...
+May  3 17:34:38 vivek-VirtualBox NetworkManager[696]: <info>  [1588541678.9628] Loaded device plugin: NMIPTunnelDeviceFactory (internal)
+May  3 17:34:38 vivek-VirtualBox NetworkManager[696]: <info>  [1588541678.9628] Loaded device plugin: NMMacsecDeviceFactory (internal)
+May  3 17:34:38 vivek-VirtualBox NetworkManager[696]: <info>  [1588541678.9628] Loaded device plugin: NMMacvlanDeviceFactory (internal)
+May  3 17:34:38 vivek-VirtualBox NetworkManager[696]: <info>  [1588541678.9628] Loaded device plugin: NMPppDeviceFactory (internal)
+May  3 17:34:38 vivek-VirtualBox NetworkManager[696]: <info>  [1588541678.9629] Loaded device plugin: NMTunDeviceFactory (internal)
+May  3 17:34:38 vivek-VirtualBox NetworkManager[696]: <info>  [1588541678.9629] Loaded device plugin: NMVethDeviceFactory (internal)
+May  3 17:34:38 vivek-VirtualBox NetworkManager[696]: <info>  [1588541678.9629] Loaded device plugin: NMVlanDeviceFactory (internal)
+May  3 17:34:38 vivek-VirtualBox NetworkManager[696]: <info>  [1588541678.9629] Loaded device plugin: NMVxlanDeviceFactory (internal)
+May  3 17:34:38 vivek-VirtualBox NetworkManager[696]: <info>  [1588541678.9674] Loaded device plugin: NMBluezManager (/usr/lib/x86_64-linux-gnu/NetworkManager/libnm-device-plugin-bluetooth.so)
+May  3 17:34:38 vivek-VirtualBox NetworkManager[696]: <info>  [1588541678.9684] Loaded device plugin: NMWwanFactory (/usr/lib/x86_64-linux-gnu/NetworkManager/libnm-device-plugin-wwan.so)
+May  3 17:34:38 vivek-VirtualBox NetworkManager[696]: <info>  [1588541678.9694] Loaded device plugin: NMAtmManager (/usr/lib/x86_64-linux-gnu/NetworkManager/libnm-device-plugin-adsl.so)
+May  3 17:34:38 vivek-VirtualBox systemd[1]: Mounted Mount unit for gtk-common-themes, revision 1506.
+May  3 17:34:38 vivek-VirtualBox NetworkManager[696]: <info>  [1588541678.9730] Loaded device plugin: NMTeamFactory (/usr/lib/x86_64-linux-gnu/NetworkManager/libnm-device-plugin-team.so)
+May  3 17:34:38 vivek-VirtualBox NetworkManager[696]: <info>  [1588541678.9743] Loaded device plugin: NMWifiFactory (/usr/lib/x86_64-linux-gnu/NetworkManager/libnm-device-plugin-wifi.so)
+May  3 17:34:38 vivek-VirtualBox NetworkManager[696]: <info>  [1588541678.9768] device (lo): carrier: link connected
+May  3 17:34:38 vivek-VirtualBox NetworkManager[696]: <info>  [1588541678.9777] manager: (lo): new Generic device (/org/freedesktop/NetworkManager/Devices/1)
+May  3 17:34:38 vivek-VirtualBox NetworkManager[696]: <info>  [1588541678.9793] manager: (enp0s3): new Ethernet device (/org/freedesktop/NetworkManager/Devices/2)
+May  3 17:34:38 vivek-VirtualBox systemd[1]: Started GNOME Display Manager.
+May  3 17:34:38 vivek-VirtualBox NetworkManager[696]: <info>  [1588541678.9814] keyfile: add connection in-memory (6d308585-be26-3a63-8583-9eb725fc46b8,"Wired connection 1")
+May  3 17:34:38 vivek-VirtualBox NetworkManager[696]: <info>  [1588541678.9823] settings: (enp0s3): created default wired connection 'Wired connection 1'
+May  3 17:34:38 vivek-VirtualBox NetworkManager[696]: <info>  [1588541678.9832] device (enp0s3): state change: unmanaged -> unavailable (reason 'managed', sys-iface-state: 'external')
+May  3 17:34:38 vivek-VirtualBox networkd-dispatcher[694]: WARNING: systemd-networkd is not running, output will be incomplete.
+May  3 17:34:39 vivek-VirtualBox systemd[1]: Started Dispatcher daemon for systemd-networkd.
+May  3 17:34:39 vivek-VirtualBox NetworkManager[696]: <info>  [1588541679.0047] modem-manager: ModemManager available
+May  3 17:34:39 vivek-VirtualBox systemd[1]: Mounted Mount unit for gnome-calculator, revision 704.
+May  3 17:34:39 vivek-VirtualBox systemd[1]: Started Disk Manager.
+May  3 17:34:39 vivek-VirtualBox udisksd[709]: Acquired the name org.freedesktop.UDisks2 on the system message bus
+May  3 17:34:39 vivek-VirtualBox avahi-daemon[602]: Server startup complete. Host name is vivek-VirtualBox.local. Local service cookie is 1343729226.
+May  3 17:34:39 vivek-VirtualBox kernel: [    7.615385] snd_intel8x0 0000:00:05.0: white list rate for 1028:0177 is 48000
+May  3 17:34:39 vivek-VirtualBox systemd[1]: Reached target Sound Card.
+May  3 17:34:39 vivek-VirtualBox systemd[1]: Mounted Mount unit for wine-platform-runtime, revision 123.
+May  3 17:34:39 vivek-VirtualBox systemd[1]: Mounted Mount unit for gnome-calculator, revision 730.
+May  3 17:34:39 vivek-VirtualBox systemd[1]: Received SIGRTMIN+20 from PID 450 (plymouthd).
+May  3 17:34:40 vivek-VirtualBox systemd[1]: Mounted Mount unit for notepad-plus-plus, revision 227.
+May  3 17:34:40 vivek-VirtualBox systemd[1]: Mounted Mount unit for wine-platform-5-stable, revision 4.
+May  3 17:34:40 vivek-VirtualBox systemd[1]: Created slice User Slice of gdm.
+May  3 17:34:40 vivek-VirtualBox systemd[1]: Mounted Mount unit for core, revision 8935.
+May  3 17:34:40 vivek-VirtualBox systemd[1]: Starting User Manager for UID 121...
+May  3 17:34:40 vivek-VirtualBox systemd[1]: Started Session c1 of user gdm.
+May  3 17:34:40 vivek-VirtualBox systemd[1]: Mounted Mount unit for core18, revision 1705.
+May  3 17:34:40 vivek-VirtualBox systemd[1]: Mounted Mount unit for notepad-plus-plus, revision 232.
+May  3 17:34:40 vivek-VirtualBox systemd[869]: Listening on GnuPG cryptographic agent and passphrase cache (restricted).
+May  3 17:34:40 vivek-VirtualBox systemd[869]: Listening on GnuPG network certificate management daemon.
+May  3 17:34:40 vivek-VirtualBox systemd[869]: Listening on GnuPG cryptographic agent and passphrase cache (access for web browsers).
+May  3 17:34:40 vivek-VirtualBox systemd[869]: Started Pending report trigger for Ubuntu Report.
+May  3 17:34:40 vivek-VirtualBox systemd[869]: Listening on GnuPG cryptographic agent (ssh-agent emulation).
+May  3 17:34:40 vivek-VirtualBox systemd[869]: Listening on REST API socket for snapd user session agent.
+May  3 17:34:40 vivek-VirtualBox systemd[869]: Reached target Paths.
+May  3 17:34:40 vivek-VirtualBox systemd[869]: Listening on Sound System.
+May  3 17:34:40 vivek-VirtualBox systemd[869]: Reached target Timers.
+May  3 17:34:40 vivek-VirtualBox systemd[869]: Starting D-Bus User Message Bus Socket.
+May  3 17:34:40 vivek-VirtualBox systemd[869]: Listening on GnuPG cryptographic agent and passphrase cache.
+May  3 17:34:40 vivek-VirtualBox systemd[869]: Listening on D-Bus User Message Bus Socket.
+May  3 17:34:40 vivek-VirtualBox systemd[869]: Reached target Sockets.
+May  3 17:34:40 vivek-VirtualBox systemd[869]: Reached target Basic System.
+May  3 17:34:40 vivek-VirtualBox systemd[869]: Reached target Default.
+May  3 17:34:40 vivek-VirtualBox systemd[869]: Startup finished in 52ms.
+May  3 17:34:40 vivek-VirtualBox systemd[1]: Started User Manager for UID 121.
+May  3 17:34:40 vivek-VirtualBox systemd[1]: Mounted Mount unit for gnome-3-28-1804, revision 67.
+May  3 17:34:40 vivek-VirtualBox systemd[1]: Mounted Mount unit for gnome-3-34-1804, revision 27.
+May  3 17:34:40 vivek-VirtualBox systemd[1]: Starting Snappy daemon...
+May  3 17:34:40 vivek-VirtualBox systemd[869]: Started D-Bus User Message Bus.
+May  3 17:34:40 vivek-VirtualBox snapd[888]: AppArmor status: apparmor is enabled but some kernel features are missing: dbus, network
+May  3 17:34:40 vivek-VirtualBox dbus-daemon[612]: [system] Activating via systemd: service name='org.freedesktop.UPower' unit='upower.service' requested by ':1.25' (uid=121 pid=905 comm="/usr/bin/gnome-shell ")
+May  3 17:34:40 vivek-VirtualBox systemd[1]: Starting Daemon for power management...
+May  3 17:34:40 vivek-VirtualBox dbus-daemon[612]: [system] Successfully activated service 'org.freedesktop.UPower'
+May  3 17:34:40 vivek-VirtualBox systemd[1]: Started Daemon for power management.
+May  3 17:34:40 vivek-VirtualBox org.gnome.Shell.desktop[905]: VMware: No 3D enabled (0, Success).
+May  3 17:34:40 vivek-VirtualBox org.gnome.Shell.desktop[905]: libEGL warning: DRI2: failed to create dri screen
+May  3 17:34:40 vivek-VirtualBox org.gnome.Shell.desktop[905]: libEGL warning: Not allowed to force software rendering when API explicitly selects a hardware device.
+May  3 17:34:40 vivek-VirtualBox org.gnome.Shell.desktop[905]: VMware: No 3D enabled (0, Success).
+May  3 17:34:40 vivek-VirtualBox org.gnome.Shell.desktop[905]: libEGL warning: DRI2: failed to create dri screen
+May  3 17:34:40 vivek-VirtualBox org.gnome.Shell.desktop[905]: VMware: No 3D enabled (0, Success).
+May  3 17:34:40 vivek-VirtualBox snapd[888]: AppArmor status: apparmor is enabled but some kernel features are missing: dbus, network
+May  3 17:34:40 vivek-VirtualBox snapd[888]: daemon.go:343: started snapd/2.44.3 (series 16; classic; devmode) ubuntu/18.04 (amd64) linux/5.5.9.
+May  3 17:34:40 vivek-VirtualBox snapd[888]: daemon.go:436: adjusting startup timeout by 1m35s (pessimistic estimate of 30s plus 5s per snap)
+May  3 17:34:41 vivek-VirtualBox NetworkManager[696]: <info>  [1588541681.0022] device (enp0s3): carrier: link connected
+May  3 17:34:41 vivek-VirtualBox NetworkManager[696]: <info>  [1588541681.0027] device (enp0s3): state change: unavailable -> disconnected (reason 'carrier-changed', sys-iface-state: 'managed')
+May  3 17:34:41 vivek-VirtualBox NetworkManager[696]: <info>  [1588541681.0047] policy: auto-activating connection 'Wired connection 1'
+May  3 17:34:41 vivek-VirtualBox kernel: [    8.820471] e1000: enp0s3 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX
+May  3 17:34:41 vivek-VirtualBox kernel: [    8.820822] IPv6: ADDRCONF(NETDEV_CHANGE): enp0s3: link becomes ready
+May  3 17:34:41 vivek-VirtualBox NetworkManager[696]: <info>  [1588541681.0057] device (enp0s3): Activation: starting connection 'Wired connection 1' (6d308585-be26-3a63-8583-9eb725fc46b8)
+May  3 17:34:41 vivek-VirtualBox NetworkManager[696]: <info>  [1588541681.0060] device (enp0s3): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+May  3 17:34:41 vivek-VirtualBox NetworkManager[696]: <info>  [1588541681.0061] manager: NetworkManager state is now CONNECTING
+May  3 17:34:41 vivek-VirtualBox NetworkManager[696]: <info>  [1588541681.0066] device (enp0s3): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May  3 17:34:41 vivek-VirtualBox NetworkManager[696]: <info>  [1588541681.0076] device (enp0s3): state change: config -> ip-config (reason 'none', sys-iface-state: 'managed')
+May  3 17:34:41 vivek-VirtualBox NetworkManager[696]: <info>  [1588541681.0083] dhcp4 (enp0s3): activation: beginning transaction (timeout in 45 seconds)
+May  3 17:34:41 vivek-VirtualBox NetworkManager[696]: <info>  [1588541681.0120] dhcp4 (enp0s3): dhclient started with pid 948
+May  3 17:34:41 vivek-VirtualBox avahi-daemon[602]: Joining mDNS multicast group on interface enp0s3.IPv6 with address fe80::4a99:c59e:33cd:a478.
+May  3 17:34:41 vivek-VirtualBox avahi-daemon[602]: New relevant interface enp0s3.IPv6 for mDNS.
+May  3 17:34:41 vivek-VirtualBox avahi-daemon[602]: Registering new address record for fe80::4a99:c59e:33cd:a478 on enp0s3.*.
+May  3 17:34:41 vivek-VirtualBox org.gnome.Shell.desktop[905]: Disabling glamor and dri3, EGL setup failed
+May  3 17:34:41 vivek-VirtualBox org.gnome.Shell.desktop[905]: Failed to initialize glamor, falling back to sw
+May  3 17:34:41 vivek-VirtualBox dhclient[948]: DHCPREQUEST of 10.0.2.15 on enp0s3 to 255.255.255.255 port 67 (xid=0x37ea3ffc)
+May  3 17:34:41 vivek-VirtualBox dhclient[948]: DHCPACK of 10.0.2.15 from 10.0.2.2
+May  3 17:34:41 vivek-VirtualBox NetworkManager[696]: <info>  [1588541681.0694] dhcp4 (enp0s3):   address 10.0.2.15
+May  3 17:34:41 vivek-VirtualBox NetworkManager[696]: <info>  [1588541681.0694] dhcp4 (enp0s3):   plen 24 (255.255.255.0)
+May  3 17:34:41 vivek-VirtualBox NetworkManager[696]: <info>  [1588541681.0694] dhcp4 (enp0s3):   gateway 10.0.2.2
+May  3 17:34:41 vivek-VirtualBox NetworkManager[696]: <info>  [1588541681.0694] dhcp4 (enp0s3):   lease time 86400
+May  3 17:34:41 vivek-VirtualBox NetworkManager[696]: <info>  [1588541681.0694] dhcp4 (enp0s3):   nameserver '192.168.1.1'
+May  3 17:34:41 vivek-VirtualBox NetworkManager[696]: <info>  [1588541681.0694] dhcp4 (enp0s3):   domain name 'myfiosgateway.com'
+May  3 17:34:41 vivek-VirtualBox NetworkManager[696]: <info>  [1588541681.0694] dhcp4 (enp0s3): state changed unknown -> bound
+May  3 17:34:41 vivek-VirtualBox avahi-daemon[602]: Joining mDNS multicast group on interface enp0s3.IPv4 with address 10.0.2.15.
+May  3 17:34:41 vivek-VirtualBox NetworkManager[696]: <info>  [1588541681.0701] device (enp0s3): state change: ip-config -> ip-check (reason 'none', sys-iface-state: 'managed')
+May  3 17:34:41 vivek-VirtualBox avahi-daemon[602]: New relevant interface enp0s3.IPv4 for mDNS.
+May  3 17:34:41 vivek-VirtualBox avahi-daemon[602]: Registering new address record for 10.0.2.15 on enp0s3.IPv4.
+May  3 17:34:41 vivek-VirtualBox NetworkManager[696]: <info>  [1588541681.0706] device (enp0s3): state change: ip-check -> secondaries (reason 'none', sys-iface-state: 'managed')
+May  3 17:34:41 vivek-VirtualBox NetworkManager[696]: <info>  [1588541681.0708] device (enp0s3): state change: secondaries -> activated (reason 'none', sys-iface-state: 'managed')
+May  3 17:34:41 vivek-VirtualBox NetworkManager[696]: <info>  [1588541681.0709] manager: NetworkManager state is now CONNECTED_LOCAL
+May  3 17:34:41 vivek-VirtualBox NetworkManager[696]: <info>  [1588541681.0727] manager: NetworkManager state is now CONNECTED_SITE
+May  3 17:34:41 vivek-VirtualBox NetworkManager[696]: <info>  [1588541681.0728] policy: set 'Wired connection 1' (enp0s3) as default for IPv4 routing and DNS
+May  3 17:34:41 vivek-VirtualBox NetworkManager[696]: <info>  [1588541681.0730] device (enp0s3): Activation: successful, device activated.
+May  3 17:34:41 vivek-VirtualBox NetworkManager[696]: <info>  [1588541681.0735] manager: startup complete
+May  3 17:34:41 vivek-VirtualBox dhclient[948]: bound to 10.0.2.15 -- renewal in 33553 seconds.
+May  3 17:34:41 vivek-VirtualBox nm-dispatcher: req:2 'up' [enp0s3]: new request (1 scripts)
+May  3 17:34:41 vivek-VirtualBox nm-dispatcher: req:2 'up' [enp0s3]: start running ordered scripts...
+May  3 17:34:41 vivek-VirtualBox systemd[1]: Started Network Manager Wait Online.
+May  3 17:34:41 vivek-VirtualBox systemd[1]: Reached target Network is Online.
+May  3 17:34:41 vivek-VirtualBox systemd[1]: Started crash report submission daemon.
+May  3 17:34:41 vivek-VirtualBox systemd[1]: Starting Tool to automatically collect and submit kernel crash signatures...
+May  3 17:34:41 vivek-VirtualBox systemd[1]: kerneloops.service: Found left-over process 982 (kerneloops) in control group while starting unit. Ignoring.
+May  3 17:34:41 vivek-VirtualBox systemd[1]: This usually indicates unclean termination of a previous run, or service implementation deficiencies.
+May  3 17:34:41 vivek-VirtualBox systemd[1]: Started Tool to automatically collect and submit kernel crash signatures.
+May  3 17:34:41 vivek-VirtualBox whoopsie[979]: [17:34:41] Using lock path: /var/lock/whoopsie/lock
+May  3 17:34:41 vivek-VirtualBox dbus-daemon[889]: [session uid=121 pid=889] Activating via systemd: service name='org.a11y.Bus' unit='at-spi-dbus-bus.service' requested by ':1.14' (uid=121 pid=905 comm="/usr/bin/gnome-shell ")
+May  3 17:34:41 vivek-VirtualBox systemd[869]: Starting Accessibility services bus...
+May  3 17:34:41 vivek-VirtualBox whoopsie[979]: [17:34:41] offline
+May  3 17:34:41 vivek-VirtualBox dbus-daemon[889]: [session uid=121 pid=889] Successfully activated service 'org.a11y.Bus'
+May  3 17:34:41 vivek-VirtualBox systemd[869]: Started Accessibility services bus.
+May  3 17:34:41 vivek-VirtualBox systemd-resolved[489]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+May  3 17:34:41 vivek-VirtualBox at-spi-bus-launcher[1004]: dbus-daemon[1016]: Activating service name='org.a11y.atspi.Registry' requested by ':1.0' (uid=121 pid=905 comm="/usr/bin/gnome-shell ")
+May  3 17:34:41 vivek-VirtualBox systemd[1]: Started Snappy daemon.
+May  3 17:34:41 vivek-VirtualBox systemd[1]: Starting Wait until snapd is fully seeded...
+May  3 17:34:41 vivek-VirtualBox at-spi-bus-launcher[1004]: dbus-daemon[1016]: Successfully activated service 'org.a11y.atspi.Registry'
+May  3 17:34:41 vivek-VirtualBox at-spi-bus-launcher[1004]: SpiRegistry daemon is running with well-known name - org.a11y.atspi.Registry
+May  3 17:34:41 vivek-VirtualBox systemd-resolved[489]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+May  3 17:34:41 vivek-VirtualBox systemd[869]: Starting Sound Service...
+May  3 17:34:41 vivek-VirtualBox dbus-daemon[612]: [system] Activating via systemd: service name='org.freedesktop.RealtimeKit1' unit='rtkit-daemon.service' requested by ':1.31' (uid=121 pid=1054 comm="/usr/bin/pulseaudio --daemonize=no ")
+May  3 17:34:41 vivek-VirtualBox systemd[1]: Starting RealtimeKit Scheduling Policy Service...
+May  3 17:34:41 vivek-VirtualBox dbus-daemon[612]: [system] Successfully activated service 'org.freedesktop.RealtimeKit1'
+May  3 17:34:41 vivek-VirtualBox systemd[1]: Started RealtimeKit Scheduling Policy Service.
+May  3 17:34:41 vivek-VirtualBox rtkit-daemon[1059]: Successfully called chroot.
+May  3 17:34:41 vivek-VirtualBox rtkit-daemon[1059]: Successfully dropped privileges.
+May  3 17:34:41 vivek-VirtualBox rtkit-daemon[1059]: Successfully limited resources.
+May  3 17:34:41 vivek-VirtualBox rtkit-daemon[1059]: Running.
+May  3 17:34:41 vivek-VirtualBox rtkit-daemon[1059]: Canary thread running.
+May  3 17:34:41 vivek-VirtualBox rtkit-daemon[1059]: Watchdog thread running.
+May  3 17:34:41 vivek-VirtualBox pulseaudio[1054]: N: [pulseaudio] alsa-util.c: Disabling timer-based scheduling because running inside a VM.
+May  3 17:34:41 vivek-VirtualBox pulseaudio[1054]: W: [pulseaudio] sink.c: Default and alternate sample rates are the same.
+May  3 17:34:41 vivek-VirtualBox rtkit-daemon[1059]: Supervising 0 threads of 0 processes of 1 users.
+May  3 17:34:41 vivek-VirtualBox rtkit-daemon[1059]: message repeated 4 times: [ Supervising 0 threads of 0 processes of 1 users.]
+May  3 17:34:41 vivek-VirtualBox pulseaudio[1054]: N: [pulseaudio] alsa-util.c: Disabling timer-based scheduling because running inside a VM.
+May  3 17:34:41 vivek-VirtualBox rtkit-daemon[1059]: Supervising 0 threads of 0 processes of 1 users.
+May  3 17:34:41 vivek-VirtualBox rtkit-daemon[1059]: message repeated 4 times: [ Supervising 0 threads of 0 processes of 1 users.]
+May  3 17:34:41 vivek-VirtualBox dbus-daemon[612]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.53' (uid=121 pid=1054 comm="/usr/bin/pulseaudio --daemonize=no ")
+May  3 17:34:41 vivek-VirtualBox ModemManager[610]: <info>  Couldn't check support for device '/sys/devices/pci0000:00/0000:00:03.0': not supported by any plugin
+May  3 17:34:41 vivek-VirtualBox systemd[869]: Started Sound Service.
+May  3 17:34:41 vivek-VirtualBox systemd[1]: Started Wait until snapd is fully seeded.
+May  3 17:34:41 vivek-VirtualBox dbus-daemon[612]: [system] Activating via systemd: service name='org.freedesktop.locale1' unit='dbus-org.freedesktop.locale1.service' requested by ':1.25' (uid=121 pid=905 comm="/usr/bin/gnome-shell ")
+May  3 17:34:41 vivek-VirtualBox systemd[1]: Starting Locale Service...
+May  3 17:34:41 vivek-VirtualBox dbus-daemon[612]: [system] Successfully activated service 'org.freedesktop.locale1'
+May  3 17:34:41 vivek-VirtualBox systemd[1]: Started Locale Service.
+May  3 17:34:41 vivek-VirtualBox dbus-daemon[889]: [session uid=121 pid=889] Activating service name='org.freedesktop.portal.IBus' requested by ':1.18' (uid=121 pid=1086 comm="ibus-daemon --xim --panel disable ")
+May  3 17:34:41 vivek-VirtualBox dbus-daemon[889]: [session uid=121 pid=889] Successfully activated service 'org.freedesktop.portal.IBus'
+May  3 17:34:41 vivek-VirtualBox dbus-daemon[889]: [session uid=121 pid=889] Activating via systemd: service name='org.freedesktop.impl.portal.PermissionStore' unit='xdg-permission-store.service' requested by ':1.13' (uid=121 pid=905 comm="/usr/bin/gnome-shell ")
+May  3 17:34:41 vivek-VirtualBox systemd[869]: Starting sandboxed app permission store...
+May  3 17:34:41 vivek-VirtualBox dbus-daemon[889]: [session uid=121 pid=889] Successfully activated service 'org.freedesktop.impl.portal.PermissionStore'
+May  3 17:34:41 vivek-VirtualBox systemd[869]: Started sandboxed app permission store.
+May  3 17:34:42 vivek-VirtualBox nm-dispatcher: req:3 'connectivity-change': new request (1 scripts)
+May  3 17:34:42 vivek-VirtualBox nm-dispatcher: req:3 'connectivity-change': start running ordered scripts...
+May  3 17:34:42 vivek-VirtualBox dbus-daemon[612]: [system] Activating via systemd: service name='org.freedesktop.GeoClue2' unit='geoclue.service' requested by ':1.25' (uid=121 pid=905 comm="/usr/bin/gnome-shell ")
+May  3 17:34:42 vivek-VirtualBox systemd[1]: Starting Location Lookup Service...
+May  3 17:34:42 vivek-VirtualBox dbus-daemon[612]: [system] Activating via systemd: service name='org.freedesktop.bolt' unit='bolt.service' requested by ':1.25' (uid=121 pid=905 comm="/usr/bin/gnome-shell ")
+May  3 17:34:42 vivek-VirtualBox systemd[1]: Starting Thunderbolt system service...
+May  3 17:34:42 vivek-VirtualBox dbus-daemon[612]: [system] Successfully activated service 'org.freedesktop.GeoClue2'
+May  3 17:34:42 vivek-VirtualBox systemd[1]: Started Location Lookup Service.
+May  3 17:34:42 vivek-VirtualBox dbus-daemon[612]: [system] Activating via systemd: service name='org.freedesktop.PackageKit' unit='packagekit.service' requested by ':1.25' (uid=121 pid=905 comm="/usr/bin/gnome-shell ")
+May  3 17:34:42 vivek-VirtualBox systemd[1]: Starting PackageKit Daemon...
+May  3 17:34:42 vivek-VirtualBox boltd[1119]: bolt 0.5 starting up.
+May  3 17:34:42 vivek-VirtualBox boltd[1119]: config: loading user config
+May  3 17:34:42 vivek-VirtualBox boltd[1119]: bouncer: initializing polkit
+May  3 17:34:42 vivek-VirtualBox PackageKit: daemon start
+May  3 17:34:42 vivek-VirtualBox boltd[1119]: udev: initializing udev
+May  3 17:34:42 vivek-VirtualBox boltd[1119]: store: loading devices
+May  3 17:34:42 vivek-VirtualBox boltd[1119]: power: force power support: no
+May  3 17:34:42 vivek-VirtualBox boltd[1119]: udev: enumerating devices
+May  3 17:34:42 vivek-VirtualBox dbus-daemon[612]: [system] Successfully activated service 'org.freedesktop.bolt'
+May  3 17:34:42 vivek-VirtualBox systemd[1]: Started Thunderbolt system service.
+May  3 17:34:42 vivek-VirtualBox spice-vdagent[1125]: Cannot access vdagent virtio channel /dev/virtio-ports/com.redhat.spice.0
+May  3 17:34:42 vivek-VirtualBox dbus-daemon[612]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+May  3 17:34:42 vivek-VirtualBox systemd[1]: Started PackageKit Daemon.
+May  3 17:34:42 vivek-VirtualBox gnome-session[896]: gnome-session-binary[896]: WARNING: App 'spice-vdagent.desktop' exited with code 1
+May  3 17:34:42 vivek-VirtualBox gnome-session-binary[896]: WARNING: App 'spice-vdagent.desktop' exited with code 1
+May  3 17:34:42 vivek-VirtualBox dbus-daemon[612]: [system] Activating via systemd: service name='org.freedesktop.ColorManager' unit='colord.service' requested by ':1.62' (uid=121 pid=1131 comm="/usr/lib/gnome-settings-daemon/gsd-color ")
+May  3 17:34:42 vivek-VirtualBox systemd[1]: Starting Manage, Install and Generate Color Profiles...
+May  3 17:34:42 vivek-VirtualBox colord[1196]: failed to get edid data: EDID length is too small
+May  3 17:34:42 vivek-VirtualBox gnome-session-binary[896]: Entering running state
+May  3 17:34:42 vivek-VirtualBox dbus-daemon[612]: [system] Successfully activated service 'org.freedesktop.ColorManager'
+May  3 17:34:42 vivek-VirtualBox systemd[1]: Started Manage, Install and Generate Color Profiles.
+May  3 17:34:42 vivek-VirtualBox xbrlapi.desktop[1200]: openConnection: connect: No such file or directory
+May  3 17:34:42 vivek-VirtualBox xbrlapi.desktop[1200]: cannot connect to braille devices daemon brltty at :0
+May  3 17:34:42 vivek-VirtualBox gnome-shell[905]: Error looking up permission: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for geolocation
+May  3 17:34:42 vivek-VirtualBox gsd-color[1131]: failed to get edid: unable to get EDID for output
+May  3 17:34:42 vivek-VirtualBox gsd-color[1131]: unable to get EDID for xrandr-Virtual-1: unable to get EDID for output
+May  3 17:34:43 vivek-VirtualBox gnome-shell[905]: JS WARNING: [resource:///org/gnome/shell/ui/windowManager.js 1477]: reference to undefined property "MetaWindowXwayland"
+May  3 17:34:43 vivek-VirtualBox gnome-shell[905]: Failed to flip: Device or resource busy
+May  3 17:34:43 vivek-VirtualBox systemd[1]: Received SIGRTMIN+21 from PID 450 (plymouthd).
+May  3 17:34:43 vivek-VirtualBox systemd[1]: Started Hold until boot process finishes up.
+May  3 17:34:43 vivek-VirtualBox systemd[1]: Reached target Multi-User System.
+May  3 17:34:43 vivek-VirtualBox systemd[1]: Reached target Graphical Interface.
+May  3 17:34:43 vivek-VirtualBox systemd[1]: Starting Update UTMP about System Runlevel Changes...
+May  3 17:34:43 vivek-VirtualBox systemd[1]: Starting Set console scheme...
+May  3 17:34:43 vivek-VirtualBox systemd[1]: Started Update UTMP about System Runlevel Changes.
+May  3 17:34:43 vivek-VirtualBox systemd[1]: Started Set console scheme.
+May  3 17:34:43 vivek-VirtualBox systemd[1]: Created slice system-getty.slice.
+May  3 17:34:43 vivek-VirtualBox systemd[1]: Startup finished in 5.814s (kernel) + 5.895s (userspace) = 11.710s.
+May  3 17:34:47 vivek-VirtualBox kernel: [   15.476190] Vivek Senapati: hotplugd is running on CPU 0.
+May  3 17:34:47 vivek-VirtualBox kernel: [   15.476196] Vivek Senapati: hotplugd is running on CPU 4.
+May  3 17:34:47 vivek-VirtualBox kernel: [   15.477179] Vivek Senapati: hotplugd is running on CPU 1.
+May  3 17:34:47 vivek-VirtualBox kernel: [   15.477180] Vivek Senapati: hotplugd is running on CPU 5.
+May  3 17:34:47 vivek-VirtualBox kernel: [   15.477184] Vivek Senapati: hotplugd is running on CPU 2.
+May  3 17:34:47 vivek-VirtualBox kernel: [   15.477201] Vivek Senapati: hotplugd is running on CPU 3.
+May  3 17:34:49 vivek-VirtualBox systemd[1]: Created slice User Slice of vivek.
+May  3 17:34:49 vivek-VirtualBox systemd[1]: Starting User Manager for UID 1000...
+May  3 17:34:49 vivek-VirtualBox systemd[1]: Started Session 2 of user vivek.
+May  3 17:34:49 vivek-VirtualBox systemd[1230]: Reached target Timers.
+May  3 17:34:49 vivek-VirtualBox systemd[1230]: Listening on GnuPG cryptographic agent and passphrase cache (restricted).
+May  3 17:34:49 vivek-VirtualBox systemd[1230]: Listening on GnuPG cryptographic agent and passphrase cache (access for web browsers).
+May  3 17:34:49 vivek-VirtualBox systemd[1230]: Listening on GnuPG cryptographic agent (ssh-agent emulation).
+May  3 17:34:49 vivek-VirtualBox systemd[1230]: Listening on GnuPG cryptographic agent and passphrase cache.
+May  3 17:34:49 vivek-VirtualBox systemd[1230]: Started Pending report trigger for Ubuntu Report.
+May  3 17:34:49 vivek-VirtualBox systemd[1230]: Reached target Paths.
+May  3 17:34:49 vivek-VirtualBox systemd[1230]: Starting D-Bus User Message Bus Socket.
+May  3 17:34:49 vivek-VirtualBox systemd[1230]: Listening on REST API socket for snapd user session agent.
+May  3 17:34:49 vivek-VirtualBox systemd[1230]: Listening on GnuPG network certificate management daemon.
+May  3 17:34:49 vivek-VirtualBox systemd[1230]: Listening on D-Bus User Message Bus Socket.
+May  3 17:34:49 vivek-VirtualBox systemd[1230]: Reached target Sockets.
+May  3 17:34:49 vivek-VirtualBox systemd[1230]: Reached target Basic System.
+May  3 17:34:49 vivek-VirtualBox systemd[1230]: Reached target Default.
+May  3 17:34:49 vivek-VirtualBox systemd[1230]: Startup finished in 33ms.
+May  3 17:34:49 vivek-VirtualBox systemd[1]: Started User Manager for UID 1000.
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (--) Log file renamed from "/home/vivek/.local/share/xorg/Xorg.pid-1250.log" to "/home/vivek/.local/share/xorg/Xorg.0.log"
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: X.Org X Server 1.20.5
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: X Protocol Version 11, Revision 0
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: Build Operating System: Linux 4.4.0-170-generic x86_64 Ubuntu
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: Current Operating System: Linux vivek-VirtualBox 5.5.9 #5 SMP Sun May 3 17:30:29 EDT 2020 x86_64
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: Kernel command line: BOOT_IMAGE=/boot/vmlinuz-5.5.9 root=UUID=7fb4ceae-eb31-4824-902f-cfd4a0b1aac1 ro quiet splash
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: Build Date: 18 December 2019  08:15:29AM
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: xorg-server-hwe-18.04 2:1.20.5+git20191008-0ubuntu1~18.04.1 (For technical support please see http://www.ubuntu.com/support)
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: Current version of pixman: 0.34.0
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: #011Before reporting problems, check http://wiki.x.org
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: #011to make sure that you have the latest version.
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: Markers: (--) probed, (**) from config file, (==) default setting,
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: #011(++) from command line, (!!) notice, (II) informational,
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: #011(WW) warning, (EE) error, (NI) not implemented, (??) unknown.
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (==) Log file: "/home/vivek/.local/share/xorg/Xorg.0.log", Time: Sun May  3 17:34:49 2020
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (==) Using system config directory "/usr/share/X11/xorg.conf.d"
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (==) No Layout section.  Using the first Screen section.
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (==) No screen section available. Using defaults.
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (**) |-->Screen "Default Screen Section" (0)
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (**) |   |-->Monitor "<default monitor>"
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (==) No monitor specified for screen "Default Screen Section".
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: #011Using a default monitor configuration.
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (==) Automatically adding devices
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (==) Automatically enabling devices
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (==) Automatically adding GPU devices
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (==) Automatically binding GPU devices
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (==) Max clients allowed: 256, resource mask: 0x1fffff
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (WW) The directory "/usr/share/fonts/X11/cyrillic" does not exist.
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: #011Entry deleted from font path.
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (WW) The directory "/usr/share/fonts/X11/100dpi/" does not exist.
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: #011Entry deleted from font path.
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (WW) The directory "/usr/share/fonts/X11/75dpi/" does not exist.
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: #011Entry deleted from font path.
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (WW) The directory "/usr/share/fonts/X11/100dpi" does not exist.
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: #011Entry deleted from font path.
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (WW) The directory "/usr/share/fonts/X11/75dpi" does not exist.
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: #011Entry deleted from font path.
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (==) FontPath set to:
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: #011/usr/share/fonts/X11/misc,
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: #011/usr/share/fonts/X11/Type1,
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: #011built-ins
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (==) ModulePath set to "/usr/lib/xorg/modules"
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) The server relies on udev to provide the list of input devices.
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: #011If no devices become available, reconfigure udev or disable AutoAddDevices.
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Loader magic: 0x55ddc8193020
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Module ABI versions:
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: #011X.Org ANSI C Emulation: 0.4
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: #011X.Org Video Driver: 24.0
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: #011X.Org XInput driver : 24.1
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: #011X.Org Server Extension : 10.0
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (++) using VT number 2
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) systemd-logind: took control of session /org/freedesktop/login1/session/_32
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) xfree86: Adding drm device (/dev/dri/card0)
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) systemd-logind: got fd for /dev/dri/card0 226:0 fd 12 paused 0
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (--) PCI:*(0@0:2:0) 15ad:0405:15ad:0405 rev 0, Mem @ 0xf0000000/16777216, 0xf1000000/2097152, I/O @ 0x0000d010/16, BIOS @ 0x????????/131072
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) LoadModule: "glx"
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Loading /usr/lib/xorg/modules/extensions/libglx.so
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Module glx: vendor="X.Org Foundation"
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: #011compiled for 1.20.5, module version = 1.0.0
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: #011ABI class: X.Org Server Extension, version 10.0
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (==) Matched vmware as autoconfigured driver 0
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (==) Matched modesetting as autoconfigured driver 1
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (==) Matched fbdev as autoconfigured driver 2
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (==) Matched vesa as autoconfigured driver 3
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (==) Assigned the driver to the xf86ConfigLayout
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) LoadModule: "vmware"
+May  3 17:34:49 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Loading /usr/lib/xorg/modules/drivers/vmware_drv.so
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Module vmware: vendor="X.Org Foundation"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: #011compiled for 1.20.1, module version = 13.3.0
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: #011Module class: X.Org Video Driver
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: #011ABI class: X.Org Video Driver, version 24.0
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) LoadModule: "modesetting"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Loading /usr/lib/xorg/modules/drivers/modesetting_drv.so
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Module modesetting: vendor="X.Org Foundation"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: #011compiled for 1.20.5, module version = 1.20.5
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: #011Module class: X.Org Video Driver
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: #011ABI class: X.Org Video Driver, version 24.0
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) LoadModule: "fbdev"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Loading /usr/lib/xorg/modules/drivers/fbdev_drv.so
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Module fbdev: vendor="X.Org Foundation"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: #011compiled for 1.20.1, module version = 0.5.0
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: #011Module class: X.Org Video Driver
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: #011ABI class: X.Org Video Driver, version 24.0
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) LoadModule: "vesa"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Loading /usr/lib/xorg/modules/drivers/vesa_drv.so
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Module vesa: vendor="X.Org Foundation"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: #011compiled for 1.20.1, module version = 2.4.0
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: #011Module class: X.Org Video Driver
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: #011ABI class: X.Org Video Driver, version 24.0
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) vmware: driver for VMware SVGA: vmware0405, vmware0710
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) modesetting: Driver for Modesetting Kernel Drivers: kms
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) FBDEV: driver for framebuffer: fbdev
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) VESA: driver for VESA chipsets: vesa
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: xf86EnableIOPorts: failed to set IOPL for I/O (Operation not permitted)
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (WW) Falling back to old probe method for modesetting
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (WW) Falling back to old probe method for fbdev
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Loading sub module "fbdevhw"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) LoadModule: "fbdevhw"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Loading /usr/lib/xorg/modules/libfbdevhw.so
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Module fbdevhw: vendor="X.Org Foundation"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: #011compiled for 1.20.5, module version = 0.0.2
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: #011ABI class: X.Org Video Driver, version 24.0
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (EE) open /dev/fb0: Permission denied
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (WW) VGA arbiter: cannot open kernel arbiter, no multi-card support
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) vmware(0): Creating default Display subsection in Screen section
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: #011"Default Screen Section" for depth/fbbpp 24/32
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (--) vmware(0): DRM driver version is 2.16.0
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (==) vmware(0): Depth 24, (--) framebuffer bpp 32
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (==) vmware(0): RGB weight 888
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (==) vmware(0): Default visual is TrueColor
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (--) vmware(0): Min width 1, Max Width 8192.
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (--) vmware(0): Min height 1, Max Height 8192.
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) vmware(0): Output Virtual1 has no monitor section
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) vmware(0): Output Virtual2 has no monitor section
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) vmware(0): Output Virtual3 has no monitor section
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) vmware(0): Output Virtual4 has no monitor section
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) vmware(0): Output Virtual5 has no monitor section
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) vmware(0): Output Virtual6 has no monitor section
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) vmware(0): Output Virtual7 has no monitor section
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) vmware(0): Output Virtual8 has no monitor section
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) vmware(0): Printing probed modes for output Virtual1
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) vmware(0): Modeline "800x600"x60.0   42.75  800 850 900 950  600 650 700 750 -hsync +vsync (45.0 kHz eP)
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) vmware(0): Modeline "2560x1600"x60.0  348.50  2560 2752 3032 3504  1600 1603 1609 1658 -hsync +vsync (99.5 kHz e)
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) vmware(0): Modeline "1920x1440"x60.0  234.00  1920 2048 2256 2600  1440 1441 1444 1500 -hsync +vsync (90.0 kHz e)
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) vmware(0): Modeline "1856x1392"x60.0  218.25  1856 1952 2176 2528  1392 1393 1396 1439 -hsync +vsync (86.3 kHz e)
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) vmware(0): Modeline "1792x1344"x60.0  204.75  1792 1920 2120 2448  1344 1345 1348 1394 -hsync +vsync (83.6 kHz e)
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) vmware(0): Modeline "1920x1200"x59.9  193.25  1920 2056 2256 2592  1200 1203 1209 1245 -hsync +vsync (74.6 kHz e)
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) vmware(0): Modeline "1600x1200"x60.0  162.00  1600 1664 1856 2160  1200 1201 1204 1250 +hsync +vsync (75.0 kHz e)
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) vmware(0): Modeline "1680x1050"x60.0  146.25  1680 1784 1960 2240  1050 1053 1059 1089 -hsync +vsync (65.3 kHz e)
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) vmware(0): Modeline "1400x1050"x60.0  121.75  1400 1488 1632 1864  1050 1053 1057 1089 -hsync +vsync (65.3 kHz e)
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) vmware(0): Modeline "1280x1024"x60.0  108.00  1280 1328 1440 1688  1024 1025 1028 1066 +hsync +vsync (64.0 kHz e)
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) vmware(0): Modeline "1440x900"x59.9  106.50  1440 1520 1672 1904  900 903 909 934 -hsync +vsync (55.9 kHz e)
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) vmware(0): Modeline "1280x960"x60.0  108.00  1280 1376 1488 1800  960 961 964 1000 +hsync +vsync (60.0 kHz e)
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) vmware(0): Modeline "1360x768"x60.0   85.50  1360 1424 1536 1792  768 771 777 795 +hsync +vsync (47.7 kHz e)
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) vmware(0): Modeline "1280x800"x59.8   83.50  1280 1352 1480 1680  800 803 809 831 +hsync -vsync (49.7 kHz e)
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) vmware(0): Modeline "1152x864"x75.0  108.00  1152 1216 1344 1600  864 865 868 900 +hsync +vsync (67.5 kHz e)
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) vmware(0): Modeline "1280x768"x59.9   79.50  1280 1344 1472 1664  768 771 778 798 -hsync +vsync (47.8 kHz e)
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) vmware(0): Modeline "1024x768"x60.0   65.00  1024 1048 1184 1344  768 771 777 806 -hsync -vsync (48.4 kHz e)
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) vmware(0): Modeline "800x600"x60.3   40.00  800 840 968 1056  600 601 605 628 +hsync +vsync (37.9 kHz e)
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) vmware(0): Modeline "640x480"x59.9   25.18  640 656 752 800  480 489 492 525 -hsync -vsync (31.5 kHz e)
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) vmware(0): EDID for output Virtual2
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) vmware(0): EDID for output Virtual3
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) vmware(0): EDID for output Virtual4
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) vmware(0): EDID for output Virtual5
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) vmware(0): EDID for output Virtual6
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) vmware(0): EDID for output Virtual7
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) vmware(0): EDID for output Virtual8
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) vmware(0): Output Virtual1 connected
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) vmware(0): Output Virtual2 disconnected
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) vmware(0): Output Virtual3 disconnected
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) vmware(0): Output Virtual4 disconnected
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) vmware(0): Output Virtual5 disconnected
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) vmware(0): Output Virtual6 disconnected
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) vmware(0): Output Virtual7 disconnected
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) vmware(0): Output Virtual8 disconnected
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) vmware(0): Using exact sizes for initial modes
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) vmware(0): Output Virtual1 using initial mode 800x600 +0+0
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (==) vmware(0): DPI set to (96, 96)
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (==) vmware(0): Using gamma correction (1.0, 1.0, 1.0)
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Loading sub module "fb"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) LoadModule: "fb"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Loading /usr/lib/xorg/modules/libfb.so
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Module fb: vendor="X.Org Foundation"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: #011compiled for 1.20.5, module version = 1.0.0
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: #011ABI class: X.Org ANSI C Emulation, version 0.4
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Loading sub module "dri2"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) LoadModule: "dri2"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Module "dri2" already built-in
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Loading sub module "dri3"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) LoadModule: "dri3"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Module "dri3" already built-in
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) UnloadModule: "modesetting"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Unloading modesetting
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) UnloadModule: "fbdev"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Unloading fbdev
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) UnloadSubModule: "fbdevhw"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Unloading fbdevhw
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) UnloadModule: "vesa"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Unloading vesa
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) vmware(0): Initialized VMWARE_CTRL extension version 0.2
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: VMware: No 3D enabled (0, Success).
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (WW) vmware(0): Failed to initialize Gallium3D Xa. No render acceleration available.
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (WW) vmware(0): Skipped initialization of direct rendering due to lack of render acceleration.
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (--) vmware(0): Render acceleration is disabled.
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (==) vmware(0): Rendercheck mode is disabled.
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (--) vmware(0): Direct rendering (DRI2 3D) is disabled.
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (--) vmware(0): Direct rendering (DRI3 3D) is disabled.
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (==) vmware(0): Backing store enabled
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (==) vmware(0): Silken mouse enabled
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (==) vmware(0): DPMS enabled
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) vmware(0): No 3D acceleration. Not setting up textured video.
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (WW) vmware(0): Disabling Xv because no adaptors could be initialized.
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Initializing extension Generic Event Extension
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Initializing extension SHAPE
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Initializing extension MIT-SHM
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Initializing extension XInputExtension
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Initializing extension XTEST
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Initializing extension BIG-REQUESTS
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Initializing extension SYNC
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Initializing extension XKEYBOARD
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Initializing extension XC-MISC
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Initializing extension SECURITY
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Initializing extension XFIXES
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Initializing extension RENDER
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Initializing extension RANDR
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Initializing extension COMPOSITE
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Initializing extension DAMAGE
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Initializing extension MIT-SCREEN-SAVER
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Initializing extension DOUBLE-BUFFER
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Initializing extension RECORD
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Initializing extension DPMS
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Initializing extension Present
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Initializing extension DRI3
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Initializing extension X-Resource
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Initializing extension XVideo
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Initializing extension XVideo-MotionCompensation
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Initializing extension SELinux
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) SELinux: Disabled on system
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Initializing extension GLX
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) AIGLX: Screen 0 is not DRI2 capable
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) IGLX: Loaded and initialized swrast
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) GLX: Initialized DRISWRAST GL provider for screen 0
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Initializing extension XFree86-VidModeExtension
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Initializing extension XFree86-DGA
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Initializing extension XFree86-DRI
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Initializing extension DRI2
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) vmware(0): Setting screen physical size to 211 x 158
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) config/udev: Adding input device Power Button (/dev/input/event0)
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (**) Power Button: Applying InputClass "libinput keyboard catchall"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) LoadModule: "libinput"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Loading /usr/lib/xorg/modules/input/libinput_drv.so
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Module libinput: vendor="X.Org Foundation"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: #011compiled for 1.20.1, module version = 0.28.1
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: #011Module class: X.Org XInput Driver
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: #011ABI class: X.Org XInput driver, version 24.1
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Using input driver 'libinput' for 'Power Button'
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) systemd-logind: got fd for /dev/input/event0 13:64 fd 20 paused 0
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (**) Power Button: always reports core events
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (**) Option "Device" "/dev/input/event0"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (**) Option "_source" "server/udev"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) event0  - Power Button: is tagged by udev as: Keyboard
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) event0  - Power Button: device is a keyboard
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) event0  - Power Button: device removed
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (**) Option "config_info" "udev:/sys/devices/LNXSYSTM:00/LNXPWRBN:00/input/input0/event0"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) XINPUT: Adding extended input device "Power Button" (type: KEYBOARD, id 6)
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (**) Option "xkb_model" "pc105"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (**) Option "xkb_layout" "us"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) event0  - Power Button: is tagged by udev as: Keyboard
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) event0  - Power Button: device is a keyboard
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) config/udev: Adding input device Sleep Button (/dev/input/event1)
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (**) Sleep Button: Applying InputClass "libinput keyboard catchall"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Using input driver 'libinput' for 'Sleep Button'
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) systemd-logind: got fd for /dev/input/event1 13:65 fd 23 paused 0
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (**) Sleep Button: always reports core events
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (**) Option "Device" "/dev/input/event1"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (**) Option "_source" "server/udev"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) event1  - Sleep Button: is tagged by udev as: Keyboard
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) event1  - Sleep Button: device is a keyboard
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) event1  - Sleep Button: device removed
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (**) Option "config_info" "udev:/sys/devices/LNXSYSTM:00/LNXSLPBN:00/input/input1/event1"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) XINPUT: Adding extended input device "Sleep Button" (type: KEYBOARD, id 7)
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (**) Option "xkb_model" "pc105"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (**) Option "xkb_layout" "us"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) event1  - Sleep Button: is tagged by udev as: Keyboard
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) event1  - Sleep Button: device is a keyboard
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) config/udev: Adding input device Video Bus (/dev/input/event3)
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (**) Video Bus: Applying InputClass "libinput keyboard catchall"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Using input driver 'libinput' for 'Video Bus'
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) systemd-logind: got fd for /dev/input/event3 13:67 fd 24 paused 0
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (**) Video Bus: always reports core events
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (**) Option "Device" "/dev/input/event3"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (**) Option "_source" "server/udev"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) event3  - Video Bus: is tagged by udev as: Keyboard
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) event3  - Video Bus: device is a keyboard
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) event3  - Video Bus: device removed
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (**) Option "config_info" "udev:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A03:00/LNXVIDEO:00/input/input4/event3"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) XINPUT: Adding extended input device "Video Bus" (type: KEYBOARD, id 8)
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (**) Option "xkb_model" "pc105"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (**) Option "xkb_layout" "us"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) event3  - Video Bus: is tagged by udev as: Keyboard
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) event3  - Video Bus: device is a keyboard
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) config/udev: Adding input device VirtualBox USB Tablet (/dev/input/event5)
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (**) VirtualBox USB Tablet: Applying InputClass "libinput pointer catchall"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Using input driver 'libinput' for 'VirtualBox USB Tablet'
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) systemd-logind: got fd for /dev/input/event5 13:69 fd 25 paused 0
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (**) VirtualBox USB Tablet: always reports core events
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (**) Option "Device" "/dev/input/event5"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (**) Option "_source" "server/udev"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) event5  - VirtualBox USB Tablet: is tagged by udev as: Mouse
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) event5  - VirtualBox USB Tablet: device is a pointer
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) event5  - VirtualBox USB Tablet: device removed
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (**) Option "config_info" "udev:/sys/devices/pci0000:00/0000:00:06.0/usb1/1-1/1-1:1.0/0003:80EE:0021.0001/input/input6/event5"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) XINPUT: Adding extended input device "VirtualBox USB Tablet" (type: MOUSE, id 9)
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (**) Option "AccelerationScheme" "none"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (**) VirtualBox USB Tablet: (accel) selected scheme none/0
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (**) VirtualBox USB Tablet: (accel) acceleration factor: 2.000
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (**) VirtualBox USB Tablet: (accel) acceleration threshold: 4
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) event5  - VirtualBox USB Tablet: is tagged by udev as: Mouse
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) event5  - VirtualBox USB Tablet: device is a pointer
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) config/udev: Adding input device VirtualBox USB Tablet (/dev/input/js0)
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) No input driver specified, ignoring this device.
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) This device may have been added with another device file.
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) config/udev: Adding input device VirtualBox USB Tablet (/dev/input/mouse1)
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) No input driver specified, ignoring this device.
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) This device may have been added with another device file.
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) config/udev: Adding input device AT Translated Set 2 keyboard (/dev/input/event2)
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (**) AT Translated Set 2 keyboard: Applying InputClass "libinput keyboard catchall"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Using input driver 'libinput' for 'AT Translated Set 2 keyboard'
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) systemd-logind: got fd for /dev/input/event2 13:66 fd 26 paused 0
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (**) AT Translated Set 2 keyboard: always reports core events
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (**) Option "Device" "/dev/input/event2"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (**) Option "_source" "server/udev"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) event2  - AT Translated Set 2 keyboard: is tagged by udev as: Keyboard
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) event2  - AT Translated Set 2 keyboard: device is a keyboard
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) event2  - AT Translated Set 2 keyboard: device removed
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (**) Option "config_info" "udev:/sys/devices/platform/i8042/serio0/input/input2/event2"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) XINPUT: Adding extended input device "AT Translated Set 2 keyboard" (type: KEYBOARD, id 10)
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (**) Option "xkb_model" "pc105"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (**) Option "xkb_layout" "us"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) event2  - AT Translated Set 2 keyboard: is tagged by udev as: Keyboard
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) event2  - AT Translated Set 2 keyboard: device is a keyboard
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) config/udev: Adding input device ImExPS/2 Generic Explorer Mouse (/dev/input/event4)
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (**) ImExPS/2 Generic Explorer Mouse: Applying InputClass "libinput pointer catchall"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) Using input driver 'libinput' for 'ImExPS/2 Generic Explorer Mouse'
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) systemd-logind: got fd for /dev/input/event4 13:68 fd 27 paused 0
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (**) ImExPS/2 Generic Explorer Mouse: always reports core events
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (**) Option "Device" "/dev/input/event4"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (**) Option "_source" "server/udev"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) event4  - ImExPS/2 Generic Explorer Mouse: is tagged by udev as: Mouse
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) event4  - ImExPS/2 Generic Explorer Mouse: device is a pointer
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) event4  - ImExPS/2 Generic Explorer Mouse: device removed
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (**) Option "config_info" "udev:/sys/devices/platform/i8042/serio1/input/input5/event4"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) XINPUT: Adding extended input device "ImExPS/2 Generic Explorer Mouse" (type: MOUSE, id 11)
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (**) Option "AccelerationScheme" "none"
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (**) ImExPS/2 Generic Explorer Mouse: (accel) selected scheme none/0
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (**) ImExPS/2 Generic Explorer Mouse: (accel) acceleration factor: 2.000
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (**) ImExPS/2 Generic Explorer Mouse: (accel) acceleration threshold: 4
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) event4  - ImExPS/2 Generic Explorer Mouse: is tagged by udev as: Mouse
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) event4  - ImExPS/2 Generic Explorer Mouse: device is a pointer
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) config/udev: Adding input device ImExPS/2 Generic Explorer Mouse (/dev/input/mouse0)
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) No input driver specified, ignoring this device.
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (II) This device may have been added with another device file.
+May  3 17:34:50 vivek-VirtualBox systemd[1230]: Started D-Bus User Message Bus.
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: /etc/gdm3/Xsession: Beginning session setup...
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: localuser:vivek being added to access control list
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: dbus-update-activation-environment: setting DISPLAY=:0
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: dbus-update-activation-environment: setting XAUTHORITY=/run/user/1000/gdm/Xauthority
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: localuser:vivek being added to access control list
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: dbus-update-activation-environment: setting CLUTTER_IM_MODULE=xim
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: dbus-update-activation-environment: setting LANG=en_US.UTF-8
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: dbus-update-activation-environment: setting DISPLAY=:0
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: dbus-update-activation-environment: setting USERNAME=vivek
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: dbus-update-activation-environment: setting USER=vivek
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: dbus-update-activation-environment: setting DESKTOP_SESSION=ubuntu
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: dbus-update-activation-environment: setting QT4_IM_MODULE=xim
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: dbus-update-activation-environment: setting TEXTDOMAINDIR=/usr/share/locale/
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: dbus-update-activation-environment: setting PWD=/home/vivek
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: dbus-update-activation-environment: setting HOME=/home/vivek
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: dbus-update-activation-environment: setting TEXTDOMAIN=im-config
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=ubuntu
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: dbus-update-activation-environment: setting WINDOWPATH=2
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: dbus-update-activation-environment: setting SHELL=/bin/bash
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: dbus-update-activation-environment: setting QT_IM_MODULE=xim
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: dbus-update-activation-environment: setting XMODIFIERS=@im=ibus
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: dbus-update-activation-environment: setting IM_CONFIG_PHASE=2
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=ubuntu:GNOME
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: dbus-update-activation-environment: setting SHLVL=1
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: dbus-update-activation-environment: setting GDMSESSION=ubuntu
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: dbus-update-activation-environment: setting LOGNAME=vivek
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: dbus-update-activation-environment: setting XAUTHORITY=/run/user/1000/gdm/Xauthority
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: dbus-update-activation-environment: setting GTK_IM_MODULE=ibus
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+May  3 17:34:50 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Activating via systemd: service name='org.a11y.Bus' unit='at-spi-dbus-bus.service' requested by ':1.6' (uid=1000 pid=1359 comm="/usr/lib/gnome-session/gnome-session-check-acceler")
+May  3 17:34:50 vivek-VirtualBox systemd[1230]: Starting Accessibility services bus...
+May  3 17:34:50 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Successfully activated service 'org.a11y.Bus'
+May  3 17:34:50 vivek-VirtualBox systemd[1230]: Started Accessibility services bus.
+May  3 17:34:50 vivek-VirtualBox at-spi-bus-launcher[1366]: dbus-daemon[1371]: Activating service name='org.a11y.atspi.Registry' requested by ':1.0' (uid=1000 pid=1359 comm="/usr/lib/gnome-session/gnome-session-check-acceler")
+May  3 17:34:50 vivek-VirtualBox at-spi-bus-launcher[1366]: dbus-daemon[1371]: Successfully activated service 'org.a11y.atspi.Registry'
+May  3 17:34:50 vivek-VirtualBox at-spi-bus-launcher[1366]: SpiRegistry daemon is running with well-known name - org.a11y.atspi.Registry
+May  3 17:34:50 vivek-VirtualBox gnome-session[1263]: gnome-session-check-accelerated: GL Helper exited with code 512
+May  3 17:34:50 vivek-VirtualBox gnome-session[1263]: libEGL warning: DRI2: failed to authenticate
+May  3 17:34:50 vivek-VirtualBox gnome-session[1263]: gnome-session-check-accelerated: GLES Helper exited with code 512
+May  3 17:34:50 vivek-VirtualBox gnome-keyring-ssh.desktop[1398]: SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+May  3 17:34:50 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Activating via systemd: service name='org.gtk.vfs.Daemon' unit='gvfs-daemon.service' requested by ':1.21' (uid=1000 pid=1403 comm="/usr/bin/gnome-shell ")
+May  3 17:34:50 vivek-VirtualBox systemd[1230]: Starting Virtual filesystem service...
+May  3 17:34:50 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Successfully activated service 'org.gtk.vfs.Daemon'
+May  3 17:34:50 vivek-VirtualBox systemd[1230]: Started Virtual filesystem service.
+May  3 17:34:50 vivek-VirtualBox /usr/lib/gdm3/gdm-x-session[1248]: (EE) No surface to present from.
+May  3 17:34:50 vivek-VirtualBox rtkit-daemon[1059]: Successfully made thread 1431 of process 1431 (n/a) owned by '1000' high priority at nice level -11.
+May  3 17:34:50 vivek-VirtualBox rtkit-daemon[1059]: Supervising 1 threads of 1 processes of 2 users.
+May  3 17:34:50 vivek-VirtualBox pulseaudio[1431]: [pulseaudio] alsa-util.c: Disabling timer-based scheduling because running inside a VM.
+May  3 17:34:50 vivek-VirtualBox pulseaudio[1431]: [pulseaudio] sink.c: Default and alternate sample rates are the same.
+May  3 17:34:50 vivek-VirtualBox rtkit-daemon[1059]: Supervising 1 threads of 1 processes of 2 users.
+May  3 17:34:50 vivek-VirtualBox rtkit-daemon[1059]: Successfully made thread 1432 of process 1431 (n/a) owned by '1000' RT at priority 5.
+May  3 17:34:50 vivek-VirtualBox rtkit-daemon[1059]: Supervising 2 threads of 1 processes of 2 users.
+May  3 17:34:50 vivek-VirtualBox pulseaudio[1431]: [pulseaudio] alsa-util.c: Disabling timer-based scheduling because running inside a VM.
+May  3 17:34:50 vivek-VirtualBox rtkit-daemon[1059]: Supervising 2 threads of 1 processes of 2 users.
+May  3 17:34:50 vivek-VirtualBox rtkit-daemon[1059]: Successfully made thread 1433 of process 1431 (n/a) owned by '1000' RT at priority 5.
+May  3 17:34:50 vivek-VirtualBox rtkit-daemon[1059]: Supervising 3 threads of 1 processes of 2 users.
+May  3 17:34:51 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Activating service name='org.freedesktop.portal.IBus' requested by ':1.25' (uid=1000 pid=1445 comm="ibus-daemon --xim --panel disable ")
+May  3 17:34:51 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Successfully activated service 'org.freedesktop.portal.IBus'
+May  3 17:34:51 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Activating via systemd: service name='org.freedesktop.impl.portal.PermissionStore' unit='xdg-permission-store.service' requested by ':1.21' (uid=1000 pid=1403 comm="/usr/bin/gnome-shell ")
+May  3 17:34:51 vivek-VirtualBox systemd[1230]: Starting sandboxed app permission store...
+May  3 17:34:51 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Successfully activated service 'org.freedesktop.impl.portal.PermissionStore'
+May  3 17:34:51 vivek-VirtualBox systemd[1230]: Started sandboxed app permission store.
+May  3 17:34:51 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Activating service name='org.gnome.Shell.CalendarServer' requested by ':1.21' (uid=1000 pid=1403 comm="/usr/bin/gnome-shell ")
+May  3 17:34:51 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Activating via systemd: service name='org.gnome.evolution.dataserver.Sources5' unit='evolution-source-registry.service' requested by ':1.30' (uid=1000 pid=1468 comm="/usr/lib/gnome-shell/gnome-shell-calendar-server ")
+May  3 17:34:51 vivek-VirtualBox systemd[1230]: Starting Evolution source registry...
+May  3 17:34:51 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Activating service name='org.gnome.OnlineAccounts' requested by ':1.31' (uid=1000 pid=1472 comm="/usr/lib/evolution/evolution-source-registry ")
+May  3 17:34:51 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Successfully activated service 'org.gnome.evolution.dataserver.Sources5'
+May  3 17:34:51 vivek-VirtualBox systemd[1230]: Started Evolution source registry.
+May  3 17:34:51 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Successfully activated service 'org.gnome.Shell.CalendarServer'
+May  3 17:34:51 vivek-VirtualBox dbus-daemon[612]: [system] Activating via systemd: service name='org.freedesktop.GeoClue2' unit='geoclue.service' requested by ':1.75' (uid=1000 pid=1403 comm="/usr/bin/gnome-shell ")
+May  3 17:34:51 vivek-VirtualBox systemd[1]: Starting Location Lookup Service...
+May  3 17:34:51 vivek-VirtualBox dbus-daemon[612]: [system] Successfully activated service 'org.freedesktop.GeoClue2'
+May  3 17:34:51 vivek-VirtualBox systemd[1]: Started Location Lookup Service.
+May  3 17:34:51 vivek-VirtualBox goa-daemon[1480]: goa-daemon version 3.28.0 starting
+May  3 17:34:51 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Activating service name='org.gnome.Identity' requested by ':1.32' (uid=1000 pid=1480 comm="/usr/lib/gnome-online-accounts/goa-daemon ")
+May  3 17:34:51 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Successfully activated service 'org.gnome.Identity'
+May  3 17:34:51 vivek-VirtualBox gnome-shell[1403]: Telepathy is not available, chat integration will be disabled.
+May  3 17:34:51 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Successfully activated service 'org.gnome.OnlineAccounts'
+May  3 17:34:51 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Activating via systemd: service name='org.gtk.vfs.UDisks2VolumeMonitor' unit='gvfs-udisks2-volume-monitor.service' requested by ':1.21' (uid=1000 pid=1403 comm="/usr/bin/gnome-shell ")
+May  3 17:34:51 vivek-VirtualBox systemd[1230]: Starting Virtual filesystem service - disk device monitor...
+May  3 17:34:51 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Successfully activated service 'org.gtk.vfs.UDisks2VolumeMonitor'
+May  3 17:34:51 vivek-VirtualBox systemd[1230]: Started Virtual filesystem service - disk device monitor.
+May  3 17:34:51 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Activating via systemd: service name='org.gtk.vfs.MTPVolumeMonitor' unit='gvfs-mtp-volume-monitor.service' requested by ':1.21' (uid=1000 pid=1403 comm="/usr/bin/gnome-shell ")
+May  3 17:34:51 vivek-VirtualBox systemd[1230]: Starting Virtual filesystem service - Media Transfer Protocol monitor...
+May  3 17:34:51 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Successfully activated service 'org.gtk.vfs.MTPVolumeMonitor'
+May  3 17:34:51 vivek-VirtualBox systemd[1230]: Started Virtual filesystem service - Media Transfer Protocol monitor.
+May  3 17:34:51 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Activating via systemd: service name='org.gtk.vfs.GoaVolumeMonitor' unit='gvfs-goa-volume-monitor.service' requested by ':1.21' (uid=1000 pid=1403 comm="/usr/bin/gnome-shell ")
+May  3 17:34:51 vivek-VirtualBox systemd[1230]: Starting Virtual filesystem service - GNOME Online Accounts monitor...
+May  3 17:34:51 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Successfully activated service 'org.gtk.vfs.GoaVolumeMonitor'
+May  3 17:34:51 vivek-VirtualBox systemd[1230]: Started Virtual filesystem service - GNOME Online Accounts monitor.
+May  3 17:34:51 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Activating via systemd: service name='org.gtk.vfs.GPhoto2VolumeMonitor' unit='gvfs-gphoto2-volume-monitor.service' requested by ':1.21' (uid=1000 pid=1403 comm="/usr/bin/gnome-shell ")
+May  3 17:34:51 vivek-VirtualBox systemd[1230]: Starting Virtual filesystem service - digital camera monitor...
+May  3 17:34:51 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Successfully activated service 'org.gtk.vfs.GPhoto2VolumeMonitor'
+May  3 17:34:51 vivek-VirtualBox systemd[1230]: Started Virtual filesystem service - digital camera monitor.
+May  3 17:34:51 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Activating via systemd: service name='org.gtk.vfs.AfcVolumeMonitor' unit='gvfs-afc-volume-monitor.service' requested by ':1.21' (uid=1000 pid=1403 comm="/usr/bin/gnome-shell ")
+May  3 17:34:51 vivek-VirtualBox systemd[1230]: Starting Virtual filesystem service - Apple File Conduit monitor...
+May  3 17:34:51 vivek-VirtualBox gvfs-afc-volume-monitor[1513]: Volume monitor alive
+May  3 17:34:51 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Successfully activated service 'org.gtk.vfs.AfcVolumeMonitor'
+May  3 17:34:51 vivek-VirtualBox systemd[1230]: Started Virtual filesystem service - Apple File Conduit monitor.
+May  3 17:34:51 vivek-VirtualBox spice-vdagent[1535]: Cannot access vdagent virtio channel /dev/virtio-ports/com.redhat.spice.0
+May  3 17:34:51 vivek-VirtualBox gnome-session[1263]: gnome-session-binary[1263]: WARNING: App 'spice-vdagent.desktop' exited with code 1
+May  3 17:34:51 vivek-VirtualBox gnome-session-binary[1263]: WARNING: App 'spice-vdagent.desktop' exited with code 1
+May  3 17:34:51 vivek-VirtualBox kernel: [   19.737336] rfkill: input handler disabled
+May  3 17:34:51 vivek-VirtualBox gsd-xsettings[1524]: Failed to get current display configuration state: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Name "org.gnome.Mutter.DisplayConfig" does not exist
+May  3 17:34:51 vivek-VirtualBox gsd-sharing[1523]: Failed to StopUnit service: GDBus.Error:org.freedesktop.systemd1.NoSuchUnit: Unit gnome-user-share-webdav.service not loaded.
+May  3 17:34:51 vivek-VirtualBox gsd-sharing[1523]: Failed to StopUnit service: GDBus.Error:org.freedesktop.systemd1.NoSuchUnit: Unit rygel.service not loaded.
+May  3 17:34:51 vivek-VirtualBox gsd-sharing[1523]: Failed to StopUnit service: GDBus.Error:org.freedesktop.systemd1.NoSuchUnit: Unit gnome-remote-desktop.service not loaded.
+May  3 17:34:51 vivek-VirtualBox gnome-shell[1403]: JS WARNING: [/usr/share/gnome-shell/extensions/ubuntu-dock@ubuntu.com/appIcons.js 1028]: unreachable code after return statement
+May  3 17:34:51 vivek-VirtualBox gsd-media-keys[1565]: g_variant_get_va: assertion 'value != NULL' failed
+May  3 17:34:51 vivek-VirtualBox gsd-media-keys[1565]: g_variant_unref: assertion 'value != NULL' failed
+May  3 17:34:51 vivek-VirtualBox gnome-shell[1403]: JS WARNING: [resource:///org/gnome/shell/ui/workspaceThumbnail.js 891]: reference to undefined property "_switchWorkspaceNotifyId"
+May  3 17:34:52 vivek-VirtualBox gnome-session-binary[1263]: Entering running state
+May  3 17:34:52 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Activating via systemd: service name='org.gnome.evolution.dataserver.Calendar7' unit='evolution-calendar-factory.service' requested by ':1.30' (uid=1000 pid=1468 comm="/usr/lib/gnome-shell/gnome-shell-calendar-server ")
+May  3 17:34:52 vivek-VirtualBox systemd[1230]: Starting Evolution calendar service...
+May  3 17:34:52 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Activating service name='org.freedesktop.FileManager1' requested by ':1.58' (uid=1000 pid=1619 comm="nautilus-desktop ")
+May  3 17:34:52 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Successfully activated service 'org.freedesktop.FileManager1'
+May  3 17:34:52 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Activating service name='ca.desrt.dconf' requested by ':1.58' (uid=1000 pid=1619 comm="nautilus-desktop ")
+May  3 17:34:52 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Successfully activated service 'ca.desrt.dconf'
+May  3 17:34:52 vivek-VirtualBox gnome-shell[1403]: Error looking up permission: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for geolocation
+May  3 17:34:52 vivek-VirtualBox gsd-color[1551]: failed to get edid: unable to get EDID for output
+May  3 17:34:52 vivek-VirtualBox gsd-color[1131]: no xrandr-Virtual1 device found: Failed to find output xrandr-Virtual1
+May  3 17:34:52 vivek-VirtualBox gsd-color[1551]: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+May  3 17:34:52 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Successfully activated service 'org.gnome.evolution.dataserver.Calendar7'
+May  3 17:34:52 vivek-VirtualBox systemd[1230]: Started Evolution calendar service.
+May  3 17:34:52 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Activating via systemd: service name='org.gnome.evolution.dataserver.AddressBook9' unit='evolution-addressbook-factory.service' requested by ':1.64' (uid=1000 pid=1676 comm="/usr/lib/evolution/evolution-calendar-factory-subp")
+May  3 17:34:52 vivek-VirtualBox nautilus-deskto[1619]: Can not get _NET_WORKAREA
+May  3 17:34:52 vivek-VirtualBox nautilus-deskto[1619]: Can not determine workarea, guessing at layout
+May  3 17:34:52 vivek-VirtualBox systemd[1230]: Starting Evolution address book service...
+May  3 17:34:52 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Successfully activated service 'org.gnome.evolution.dataserver.AddressBook9'
+May  3 17:34:52 vivek-VirtualBox systemd[1230]: Started Evolution address book service.
+May  3 17:34:52 vivek-VirtualBox nautilus-deskto[1619]: Called "net usershare info" but it failed: Failed to execute child process “net” (No such file or directory)
+May  3 17:34:53 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Activating via systemd: service name='org.gtk.vfs.Metadata' unit='gvfs-metadata.service' requested by ':1.58' (uid=1000 pid=1619 comm="nautilus-desktop ")
+May  3 17:34:53 vivek-VirtualBox systemd[1230]: Starting Virtual filesystem metadata service...
+May  3 17:34:53 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Successfully activated service 'org.gtk.vfs.Metadata'
+May  3 17:34:53 vivek-VirtualBox systemd[1230]: Started Virtual filesystem metadata service.
+May  3 17:34:53 vivek-VirtualBox gnome-shell[1403]: GNOME Shell started at Sun May 03 2020 17:34:51 GMT-0400 (EDT)
+May  3 17:34:58 vivek-VirtualBox gsd-color[1551]: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+May  3 17:34:58 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Activating via systemd: service name='org.gnome.zeitgeist.Engine' unit='zeitgeist.service' requested by ':1.58' (uid=1000 pid=1619 comm="nautilus-desktop ")
+May  3 17:34:58 vivek-VirtualBox systemd[1230]: Starting Zeitgeist activity log service...
+May  3 17:34:58 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Activating via systemd: service name='org.gnome.zeitgeist.SimpleIndexer' unit='zeitgeist-fts.service' requested by ':1.68' (uid=1000 pid=1723 comm="/usr/bin/zeitgeist-daemon ")
+May  3 17:34:58 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Successfully activated service 'org.gnome.zeitgeist.Engine'
+May  3 17:34:58 vivek-VirtualBox systemd[1230]: Started Zeitgeist activity log service.
+May  3 17:34:58 vivek-VirtualBox zeitgeist-daemon[1723]: #033[31m[21:34:58.054257 WARNING]#033[0m zeitgeist-daemon.vala:334: Failed to execute child process “zeitgeist-datahub” (No such file or directory)
+May  3 17:34:58 vivek-VirtualBox systemd[1230]: Starting Zeitgeist full-text search indexer...
+May  3 17:34:58 vivek-VirtualBox zeitgeist-daemon[1723]: #033[31m[21:34:58.055058 WARNING]#033[0m zeitgeist-daemon.vala:127: Unable to parse version info!
+May  3 17:34:58 vivek-VirtualBox zeitgeist-daemon[1723]: #033[31m[21:34:58.055850 WARNING]#033[0m zeitgeist-daemon.vala:127: Unable to parse version info!
+May  3 17:34:58 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Successfully activated service 'org.gnome.zeitgeist.SimpleIndexer'
+May  3 17:34:58 vivek-VirtualBox systemd[1230]: Started Zeitgeist full-text search indexer.
+May  3 17:34:59 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Activating service name='org.freedesktop.PackageKit' requested by ':1.58' (uid=1000 pid=1619 comm="nautilus-desktop ")
+May  3 17:35:01 vivek-VirtualBox gnome-software[1742]: plugin appstream took 1.1 seconds to do setup
+May  3 17:35:01 vivek-VirtualBox gnome-software[1742]: enabled plugins: desktop-categories, fwupd, os-release, packagekit-local, systemd-updates, shell-extensions, packagekit-proxy, ubuntuone, packagekit, packagekit-upgrade, packagekit-url-to-app, packagekit-refine-repos, packagekit-offline, packagekit-refresh, appstream, desktop-menu-path, packagekit-refine, odrs, rewrite-resource, generic-updates, steam, hardcoded-popular, hardcoded-blacklist, hardcoded-featured, modalias, snap, provenance, packagekit-history, provenance-license, icons, key-colors, key-colors-metadata
+May  3 17:35:01 vivek-VirtualBox gnome-software[1742]: disabled plugins: dpkg, dummy, repos, epiphany
+May  3 17:35:01 vivek-VirtualBox dbus-daemon[612]: [system] Activating via systemd: service name='org.freedesktop.fwupd' unit='fwupd.service' requested by ':1.100' (uid=1000 pid=1742 comm="/usr/bin/gnome-software --gapplication-service ")
+May  3 17:35:01 vivek-VirtualBox systemd[1]: Starting Firmware update daemon...
+May  3 17:35:01 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Successfully activated service 'org.freedesktop.PackageKit'
+May  3 17:35:01 vivek-VirtualBox dbus-daemon[612]: [system] Successfully activated service 'org.freedesktop.fwupd'
+May  3 17:35:01 vivek-VirtualBox systemd[1]: Started Firmware update daemon.
+May  3 17:35:02 vivek-VirtualBox PackageKit: get-updates transaction /427_abccaced from uid 1000 finished with success after 634ms
+May  3 17:35:02 vivek-VirtualBox gnome-software[1742]: Only 0 apps for recent list, hiding
+May  3 17:35:02 vivek-VirtualBox PackageKit: resolve transaction /428_dccecede from uid 1000 finished with success after 447ms
+May  3 17:35:02 vivek-VirtualBox kernel: [   30.580051] Vivek Senapati: hotplugd is running on CPU 2.
+May  3 17:35:02 vivek-VirtualBox kernel: [   30.580627] Vivek Senapati: hotplugd is running on CPU 0.
+May  3 17:35:02 vivek-VirtualBox kernel: [   30.584042] Vivek Senapati: hotplugd is running on CPU 4.
+May  3 17:35:02 vivek-VirtualBox kernel: [   30.584047] Vivek Senapati: hotplugd is running on CPU 5.
+May  3 17:35:02 vivek-VirtualBox kernel: [   30.584148] Vivek Senapati: hotplugd is running on CPU 3.
+May  3 17:35:02 vivek-VirtualBox kernel: [   30.584237] Vivek Senapati: hotplugd is running on CPU 1.
+May  3 17:35:02 vivek-VirtualBox gnome-software[1742]: Failed to load snap icon: local snap has no icon
+May  3 17:35:03 vivek-VirtualBox gnome-software[1742]: g_variant_new_variant: assertion 'value != NULL' failed
+May  3 17:35:03 vivek-VirtualBox gnome-software[1742]: g_variant_new_variant: assertion 'value != NULL' failed
+May  3 17:35:03 vivek-VirtualBox gnome-software[1742]: failed to call gs_plugin_refine_app on snap: Invalid string value converting to GVariant
+May  3 17:35:03 vivek-VirtualBox PackageKit: search-file transaction /429_bceaebde from uid 1000 finished with success after 934ms
+May  3 17:35:04 vivek-VirtualBox PackageKit: search-file transaction /430_acacecac from uid 1000 finished with success after 500ms
+May  3 17:35:04 vivek-VirtualBox PackageKit: search-file transaction /431_ddcaabba from uid 1000 finished with success after 484ms
+May  3 17:35:05 vivek-VirtualBox PackageKit: search-file transaction /432_eadacacc from uid 1000 finished with success after 505ms
+May  3 17:35:05 vivek-VirtualBox PackageKit: search-file transaction /433_edccebcd from uid 1000 finished with success after 496ms
+May  3 17:35:06 vivek-VirtualBox PackageKit: search-file transaction /434_badebaed from uid 1000 finished with success after 502ms
+May  3 17:35:06 vivek-VirtualBox pulseaudio[1431]: [pulseaudio] bluez5-util.c: GetManagedObjects() failed: org.freedesktop.DBus.Error.TimedOut: Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+May  3 17:35:06 vivek-VirtualBox PackageKit: search-file transaction /435_cccbabbc from uid 1000 finished with success after 490ms
+May  3 17:35:07 vivek-VirtualBox PackageKit: search-file transaction /436_bbcdacbd from uid 1000 finished with success after 478ms
+May  3 17:35:07 vivek-VirtualBox PackageKit: get-details transaction /437_ddcccbce from uid 1000 finished with success after 458ms
+May  3 17:35:07 vivek-VirtualBox gnome-software[1742]: Failed to load snap icon: local snap has no icon
+May  3 17:35:07 vivek-VirtualBox gnome-software[1742]: message repeated 2 times: [ Failed to load snap icon: local snap has no icon]
+May  3 17:35:07 vivek-VirtualBox systemd-timesyncd[488]: Synchronized to time server 91.189.94.4:123 (ntp.ubuntu.com).
+May  3 17:35:08 vivek-VirtualBox gnome-software[1742]: Failed to load snap icon: local snap has no icon
+May  3 17:35:16 vivek-VirtualBox kernel: [   45.684478] Vivek Senapati: hotplugd is running on CPU 2.
+May  3 17:35:16 vivek-VirtualBox kernel: [   45.684479] Vivek Senapati: hotplugd is running on CPU 5.
+May  3 17:35:16 vivek-VirtualBox kernel: [   45.684532] Vivek Senapati: hotplugd is running on CPU 3.
+May  3 17:35:16 vivek-VirtualBox kernel: [   45.684560] Vivek Senapati: hotplugd is running on CPU 0.
+May  3 17:35:16 vivek-VirtualBox kernel: [   45.684562] Vivek Senapati: hotplugd is running on CPU 1.
+May  3 17:35:16 vivek-VirtualBox kernel: [   45.684565] Vivek Senapati: hotplugd is running on CPU 4.
+May  3 17:35:08 vivek-VirtualBox gnome-software[1742]: Failed to load snap icon: local snap has no icon
+May  3 17:35:23 vivek-VirtualBox gnome-shell[1403]: JS WARNING: [resource:///org/gnome/shell/ui/search.js 506]: reference to undefined property "_searchCancelTimeoutId"
+May  3 17:35:23 vivek-VirtualBox gnome-shell[1403]: JS WARNING: [resource:///org/gnome/shell/ui/search.js 599]: reference to undefined property "_searchCancelTimeoutId"
+May  3 17:35:23 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Activating service name='org.gnome.ControlCenter.SearchProvider' requested by ':1.21' (uid=1000 pid=1403 comm="/usr/bin/gnome-shell ")
+May  3 17:35:23 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Activating service name='org.gnome.Nautilus' requested by ':1.21' (uid=1000 pid=1403 comm="/usr/bin/gnome-shell ")
+May  3 17:35:23 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Activating service name='org.gnome.Calendar' requested by ':1.21' (uid=1000 pid=1403 comm="/usr/bin/gnome-shell ")
+May  3 17:35:23 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Activating service name='org.gnome.seahorse.Application' requested by ':1.21' (uid=1000 pid=1403 comm="/usr/bin/gnome-shell ")
+May  3 17:35:23 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Activating via systemd: service name='org.gnome.Terminal' unit='gnome-terminal-server.service' requested by ':1.21' (uid=1000 pid=1403 comm="/usr/bin/gnome-shell ")
+May  3 17:35:23 vivek-VirtualBox systemd[1230]: Starting GNOME Terminal Server...
+May  3 17:35:23 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Successfully activated service 'org.gnome.ControlCenter.SearchProvider'
+May  3 17:35:23 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Successfully activated service 'org.gnome.Nautilus'
+May  3 17:35:23 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Successfully activated service 'org.gnome.Calendar'
+May  3 17:35:23 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Successfully activated service 'org.gnome.seahorse.Application'
+May  3 17:35:23 vivek-VirtualBox nautilus[1823]: g_key_file_load_from_file: assertion 'file != NULL' failed
+May  3 17:35:23 vivek-VirtualBox nautilus[1823]: Could not establish a connection to Tracker: Failed to load SPARQL backend: Key file does not have group “DomainOntology”
+May  3 17:35:23 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Successfully activated service 'org.gnome.Terminal'
+May  3 17:35:23 vivek-VirtualBox systemd[1230]: Started GNOME Terminal Server.
+May  3 17:35:23 vivek-VirtualBox nautilus[1823]: g_queue_pop_head: assertion 'queue != NULL' failed
+May  3 17:35:23 vivek-VirtualBox nautilus[1823]: g_queue_foreach: assertion 'queue != NULL' failed
+May  3 17:35:23 vivek-VirtualBox nautilus[1823]: g_queue_free: assertion 'queue != NULL' failed
+May  3 17:35:23 vivek-VirtualBox nautilus[1823]: g_queue_pop_head: assertion 'queue != NULL' failed
+May  3 17:35:23 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Activating via systemd: service name='org.freedesktop.portal.Documents' unit='xdg-document-portal.service' requested by ':1.76' (uid=1000 pid=1906 comm="/snap/bin/notepad-plus-plus ")
+May  3 17:35:23 vivek-VirtualBox systemd[1230]: Starting flatpak document portal service...
+May  3 17:35:23 vivek-VirtualBox dbus-daemon[1260]: [session uid=1000 pid=1260] Successfully activated service 'org.freedesktop.portal.Documents'
+May  3 17:35:23 vivek-VirtualBox systemd[1230]: Started flatpak document portal service.
+May  3 17:35:23 vivek-VirtualBox kernel: [   52.290251] kauditd_printk_skb: 29 callbacks suppressed
+May  3 17:35:23 vivek-VirtualBox kernel: [   52.290252] audit: type=1400 audit(1588541723.591:41): apparmor="DENIED" operation="capable" profile="/snap/core/9066/usr/lib/snapd/snap-confine" pid=1906 comm="snap-confine" capability=4  capname="fsetid"
+May  3 17:35:23 vivek-VirtualBox nautilus[1823]: g_queue_foreach: assertion 'queue != NULL' failed
+May  3 17:35:23 vivek-VirtualBox nautilus[1823]: g_queue_free: assertion 'queue != NULL' failed
+May  3 17:35:24 vivek-VirtualBox kernel: [   53.063515] audit: type=1326 audit(1588541724.363:42): auid=1000 uid=1000 gid=1000 ses=2 subj==snap.notepad-plus-plus.notepad-plus-plus (enforce) pid=2004 comm="wineserver" exe="/snap/notepad-plus-plus/232/wine-platform/wine-stable/bin/wineserver" sig=0 arch=c000003e syscall=203 compat=0 ip=0x7f3c795fcf89 code=0x50000
+May  3 17:35:24 vivek-VirtualBox kernel: [   53.283507] audit: type=1326 audit(1588541724.583:43): auid=1000 uid=1000 gid=1000 ses=2 subj==snap.notepad-plus-plus.notepad-plus-plus (enforce) pid=2004 comm="wineserver" exe="/snap/notepad-plus-plus/232/wine-platform/wine-stable/bin/wineserver" sig=0 arch=c000003e syscall=203 compat=0 ip=0x7f3c795fcf89 code=0x50000
+May  3 17:35:24 vivek-VirtualBox kernel: [   53.304184] audit: type=1326 audit(1588541724.607:44): auid=1000 uid=1000 gid=1000 ses=2 subj==snap.notepad-plus-plus.notepad-plus-plus (enforce) pid=2004 comm="wineserver" exe="/snap/notepad-plus-plus/232/wine-platform/wine-stable/bin/wineserver" sig=0 arch=c000003e syscall=203 compat=0 ip=0x7f3c795fcf89 code=0x50000
+May  3 17:35:24 vivek-VirtualBox kernel: [   53.583542] audit: type=1326 audit(1588541724.883:45): auid=1000 uid=1000 gid=1000 ses=2 subj==snap.notepad-plus-plus.notepad-plus-plus (enforce) pid=2004 comm="wineserver" exe="/snap/notepad-plus-plus/232/wine-platform/wine-stable/bin/wineserver" sig=0 arch=c000003e syscall=203 compat=0 ip=0x7f3c795fcf89 code=0x50000
+May  3 17:35:24 vivek-VirtualBox kernel: [   53.595997] audit: type=1326 audit(1588541724.899:46): auid=1000 uid=1000 gid=1000 ses=2 subj==snap.notepad-plus-plus.notepad-plus-plus (enforce) pid=2004 comm="wineserver" exe="/snap/notepad-plus-plus/232/wine-platform/wine-stable/bin/wineserver" sig=0 arch=c000003e syscall=203 compat=0 ip=0x7f3c795fcf89 code=0x50000
+May  3 17:35:24 vivek-VirtualBox kernel: [   53.649508] audit: type=1326 audit(1588541724.951:47): auid=1000 uid=1000 gid=1000 ses=2 subj==snap.notepad-plus-plus.notepad-plus-plus (enforce) pid=2004 comm="wineserver" exe="/snap/notepad-plus-plus/232/wine-platform/wine-stable/bin/wineserver" sig=0 arch=c000003e syscall=203 compat=0 ip=0x7f3c795fcf89 code=0x50000
+May  3 17:35:24 vivek-VirtualBox kernel: [   53.651380] audit: type=1326 audit(1588541724.951:48): auid=1000 uid=1000 gid=1000 ses=2 subj==snap.notepad-plus-plus.notepad-plus-plus (enforce) pid=2004 comm="wineserver" exe="/snap/notepad-plus-plus/232/wine-platform/wine-stable/bin/wineserver" sig=0 arch=c000003e syscall=203 compat=0 ip=0x7f3c795fcf89 code=0x50000
+May  3 17:35:24 vivek-VirtualBox kernel: [   53.651545] audit: type=1326 audit(1588541724.951:49): auid=1000 uid=1000 gid=1000 ses=2 subj==snap.notepad-plus-plus.notepad-plus-plus (enforce) pid=2004 comm="wineserver" exe="/snap/notepad-plus-plus/232/wine-platform/wine-stable/bin/wineserver" sig=0 arch=c000003e syscall=203 compat=0 ip=0x7f3c795fcf89 code=0x50000
+May  3 17:35:24 vivek-VirtualBox kernel: [   53.652822] audit: type=1326 audit(1588541724.955:50): auid=1000 uid=1000 gid=1000 ses=2 subj==snap.notepad-plus-plus.notepad-plus-plus (enforce) pid=2004 comm="wineserver" exe="/snap/notepad-plus-plus/232/wine-platform/wine-stable/bin/wineserver" sig=0 arch=c000003e syscall=203 compat=0 ip=0x7f3c795fcf89 code=0x50000
+May  3 17:35:29 vivek-VirtualBox kernel: [   57.735927] kauditd_printk_skb: 15 callbacks suppressed
+May  3 17:35:29 vivek-VirtualBox kernel: [   57.735938] audit: type=1326 audit(1588541729.035:66): auid=1000 uid=1000 gid=1000 ses=2 subj==snap.notepad-plus-plus.notepad-plus-plus (enforce) pid=2004 comm="wineserver" exe="/snap/notepad-plus-plus/232/wine-platform/wine-stable/bin/wineserver" sig=0 arch=c000003e syscall=203 compat=0 ip=0x7f3c795fcf89 code=0x50000
+May  3 17:35:32 vivek-VirtualBox kernel: [   60.789074] Vivek Senapati: hotplugd is running on CPU 4.
+May  3 17:35:32 vivek-VirtualBox kernel: [   60.789076] Vivek Senapati: hotplugd is running on CPU 1.
+May  3 17:35:32 vivek-VirtualBox kernel: [   60.789085] Vivek Senapati: hotplugd is running on CPU 5.
+May  3 17:35:32 vivek-VirtualBox kernel: [   60.789088] Vivek Senapati: hotplugd is running on CPU 2.
+May  3 17:35:32 vivek-VirtualBox kernel: [   60.789145] Vivek Senapati: hotplugd is running on CPU 0.
+May  3 17:35:32 vivek-VirtualBox kernel: [   60.910856] Vivek Senapati: hotplugd is running on CPU 3.
+May  3 17:35:47 vivek-VirtualBox kernel: [   75.892140] Vivek Senapati: hotplugd is running on CPU 5.
+May  3 17:35:47 vivek-VirtualBox kernel: [   75.892164] Vivek Senapati: hotplugd is running on CPU 1.
+May  3 17:35:47 vivek-VirtualBox kernel: [   75.892203] Vivek Senapati: hotplugd is running on CPU 0.
+May  3 17:35:47 vivek-VirtualBox kernel: [   75.892284] Vivek Senapati: hotplugd is running on CPU 2.
+May  3 17:35:47 vivek-VirtualBox kernel: [   75.892326] Vivek Senapati: hotplugd is running on CPU 4.
+May  3 17:35:47 vivek-VirtualBox kernel: [   76.148664] Vivek Senapati: hotplugd is running on CPU 3.
+May  3 17:35:47 vivek-VirtualBox kernel: [   76.387502] audit: type=1326 audit(1588541747.687:67): auid=1000 uid=1000 gid=1000 ses=2 subj==snap.notepad-plus-plus.notepad-plus-plus (enforce) pid=2004 comm="wineserver" exe="/snap/notepad-plus-plus/232/wine-platform/wine-stable/bin/wineserver" sig=0 arch=c000003e syscall=203 compat=0 ip=0x7f3c795fcf89 code=0x50000
+May  3 17:35:48 vivek-VirtualBox kernel: [   76.859016] audit: type=1326 audit(1588541748.159:68): auid=1000 uid=1000 gid=1000 ses=2 subj==snap.notepad-plus-plus.notepad-plus-plus (enforce) pid=2004 comm="wineserver" exe="/snap/notepad-plus-plus/232/wine-platform/wine-stable/bin/wineserver" sig=0 arch=c000003e syscall=203 compat=0 ip=0x7f3c795fcf89 code=0x50000
+May  3 17:35:51 vivek-VirtualBox gnome-software-service.desktop[2050]: Unable to acquire bus name 'org.gnome.Software'
+May  3 17:35:53 vivek-VirtualBox gnome-shell[1403]: [AppIndicatorSupport-DEBUG] Registering StatusNotifierItem :1.78/org/ayatana/NotificationItem/software_update_available
+May  3 17:35:53 vivek-VirtualBox gnome-shell[1403]: [AppIndicatorSupport-DEBUG] Registering StatusNotifierItem :1.78/org/ayatana/NotificationItem/livepatch
+May  3 17:36:02 vivek-VirtualBox kernel: [   90.995662] Vivek Senapati: hotplugd is running on CPU 5.
+May  3 17:36:02 vivek-VirtualBox kernel: [   90.995663] Vivek Senapati: hotplugd is running on CPU 4.
+May  3 17:36:02 vivek-VirtualBox kernel: [   90.995675] Vivek Senapati: hotplugd is running on CPU 1.
+May  3 17:36:02 vivek-VirtualBox kernel: [   90.995675] Vivek Senapati: hotplugd is running on CPU 0.
+May  3 17:36:02 vivek-VirtualBox kernel: [   90.995698] Vivek Senapati: hotplugd is running on CPU 2.
+May  3 17:36:02 vivek-VirtualBox kernel: [   91.197670] audit: type=1326 audit(1588541762.500:69): auid=1000 uid=1000 gid=1000 ses=2 subj==snap.notepad-plus-plus.notepad-plus-plus (enforce) pid=2004 comm="wineserver" exe="/snap/notepad-plus-plus/232/wine-platform/wine-stable/bin/wineserver" sig=0 arch=c000003e syscall=203 compat=0 ip=0x7f3c795fcf89 code=0x50000
+May  3 17:36:02 vivek-VirtualBox kernel: [   91.251467] Vivek Senapati: hotplugd is running on CPU 3.
+May  3 17:36:02 vivek-VirtualBox kernel: [   91.590321] audit: type=1326 audit(1588541762.892:70): auid=1000 uid=1000 gid=1000 ses=2 subj==snap.notepad-plus-plus.notepad-plus-plus (enforce) pid=2004 comm="wineserver" exe="/snap/notepad-plus-plus/232/wine-platform/wine-stable/bin/wineserver" sig=0 arch=c000003e syscall=203 compat=0 ip=0x7f3c795fcf89 code=0x50000
+May  3 17:36:17 vivek-VirtualBox kernel: [  106.100147] Vivek Senapati: hotplugd is running on CPU 5.
+May  3 17:36:17 vivek-VirtualBox kernel: [  106.100437] Vivek Senapati: hotplugd is running on CPU 1.
+May  3 17:36:17 vivek-VirtualBox kernel: [  106.100497] Vivek Senapati: hotplugd is running on CPU 4.
+May  3 17:36:17 vivek-VirtualBox kernel: [  106.100547] Vivek Senapati: hotplugd is running on CPU 0.
+May  3 17:36:17 vivek-VirtualBox kernel: [  106.100589] Vivek Senapati: hotplugd is running on CPU 2.
+May  3 17:36:17 vivek-VirtualBox kernel: [  106.373394] Vivek Senapati: hotplugd is running on CPU 3.
+May  3 17:36:28 vivek-VirtualBox notepad-plus-plus_notepad-plus-plus.desktop[1906]: wine: Read access denied for device L"\\??\\D:\\", FS volume label and serial are not available.
+May  3 17:36:28 vivek-VirtualBox notepad-plus-plus_notepad-plus-plus.desktop[1906]: wine: Read access denied for device L"\\??\\Z:\\", FS volume label and serial are not available.
+May  3 17:36:28 vivek-VirtualBox notepad-plus-plus_notepad-plus-plus.desktop[1906]: wine: Read access denied for device L"\\??\\Z:\\", FS volume label and serial are not available.
+May  3 17:36:28 vivek-VirtualBox notepad-plus-plus_notepad-plus-plus.desktop[1906]: wine: Read access denied for device L"\\??\\D:\\", FS volume label and serial are not available.
+May  3 17:36:32 vivek-VirtualBox kernel: [  121.204214] Vivek Senapati: hotplugd is running on CPU 5.
+May  3 17:36:32 vivek-VirtualBox kernel: [  121.204374] Vivek Senapati: hotplugd is running on CPU 4.
+May  3 17:36:32 vivek-VirtualBox kernel: [  121.204412] Vivek Senapati: hotplugd is running on CPU 1.
+May  3 17:36:32 vivek-VirtualBox kernel: [  121.204420] Vivek Senapati: hotplugd is running on CPU 2.
+May  3 17:36:32 vivek-VirtualBox kernel: [  121.204438] Vivek Senapati: hotplugd is running on CPU 0.
+May  3 17:36:32 vivek-VirtualBox kernel: [  121.460001] Vivek Senapati: hotplugd is running on CPU 3.
+May  3 17:36:40 vivek-VirtualBox notepad-plus-plus_notepad-plus-plus.desktop[1906]: wine: Read access denied for device L"\\??\\D:\\", FS volume label and serial are not available.
+May  3 17:36:40 vivek-VirtualBox notepad-plus-plus_notepad-plus-plus.desktop[1906]: wine: Read access denied for device L"\\??\\Z:\\", FS volume label and serial are not available.
+May  3 17:36:40 vivek-VirtualBox notepad-plus-plus_notepad-plus-plus.desktop[1906]: wine: Read access denied for device L"\\??\\Z:\\", FS volume label and serial are not available.
+May  3 17:36:40 vivek-VirtualBox notepad-plus-plus_notepad-plus-plus.desktop[1906]: wine: Read access denied for device L"\\??\\D:\\", FS volume label and serial are not available.
+May  3 17:36:47 vivek-VirtualBox kernel: [  136.307195] Vivek Senapati: hotplugd is running on CPU 2.
+May  3 17:36:47 vivek-VirtualBox kernel: [  136.308102] Vivek Senapati: hotplugd is running on CPU 5.
+May  3 17:36:47 vivek-VirtualBox kernel: [  136.308169] Vivek Senapati: hotplugd is running on CPU 4.
+May  3 17:36:47 vivek-VirtualBox kernel: [  136.308199] Vivek Senapati: hotplugd is running on CPU 1.
+May  3 17:36:47 vivek-VirtualBox kernel: [  136.308216] Vivek Senapati: hotplugd is running on CPU 0.
+May  3 17:36:47 vivek-VirtualBox kernel: [  136.583729] Vivek Senapati: hotplugd is running on CPU 3.
+May  3 17:37:02 vivek-VirtualBox kernel: [  151.410941] Vivek Senapati: hotplugd is running on CPU 4.
+May  3 17:37:02 vivek-VirtualBox kernel: [  151.411006] Vivek Senapati: hotplugd is running on CPU 0.
+May  3 17:37:02 vivek-VirtualBox kernel: [  151.411076] Vivek Senapati: hotplugd is running on CPU 5.
+May  3 17:37:02 vivek-VirtualBox kernel: [  151.411220] Vivek Senapati: hotplugd is running on CPU 1.
+May  3 17:37:02 vivek-VirtualBox kernel: [  151.411250] Vivek Senapati: hotplugd is running on CPU 2.
+May  3 17:37:02 vivek-VirtualBox kernel: [  151.668062] Vivek Senapati: hotplugd is running on CPU 3.
+May  3 17:37:17 vivek-VirtualBox kernel: [  166.514697] Vivek Senapati: hotplugd is running on CPU 1.
+May  3 17:37:17 vivek-VirtualBox kernel: [  166.514704] Vivek Senapati: hotplugd is running on CPU 5.
+May  3 17:37:17 vivek-VirtualBox kernel: [  166.514759] Vivek Senapati: hotplugd is running on CPU 2.
+May  3 17:37:17 vivek-VirtualBox kernel: [  166.514760] Vivek Senapati: hotplugd is running on CPU 0.
+May  3 17:37:17 vivek-VirtualBox kernel: [  166.514769] Vivek Senapati: hotplugd is running on CPU 4.
+May  3 17:37:18 vivek-VirtualBox kernel: [  166.770895] Vivek Senapati: hotplugd is running on CPU 3.
+May  3 17:37:32 vivek-VirtualBox kernel: [  181.618694] Vivek Senapati: hotplugd is running on CPU 5.
+May  3 17:37:32 vivek-VirtualBox kernel: [  181.618697] Vivek Senapati: hotplugd is running on CPU 1.
+May  3 17:37:32 vivek-VirtualBox kernel: [  181.618698] Vivek Senapati: hotplugd is running on CPU 2.
+May  3 17:37:32 vivek-VirtualBox kernel: [  181.618704] Vivek Senapati: hotplugd is running on CPU 4.
+May  3 17:37:32 vivek-VirtualBox kernel: [  181.618729] Vivek Senapati: hotplugd is running on CPU 0.
+May  3 17:37:33 vivek-VirtualBox kernel: [  181.874982] Vivek Senapati: hotplugd is running on CPU 3.
+May  3 17:37:48 vivek-VirtualBox kernel: [  196.722397] Vivek Senapati: hotplugd is running on CPU 0.
+May  3 17:37:48 vivek-VirtualBox kernel: [  196.722475] Vivek Senapati: hotplugd is running on CPU 2.
+May  3 17:37:48 vivek-VirtualBox kernel: [  196.723340] Vivek Senapati: hotplugd is running on CPU 5.
+May  3 17:37:48 vivek-VirtualBox kernel: [  196.723368] Vivek Senapati: hotplugd is running on CPU 1.
+May  3 17:37:48 vivek-VirtualBox kernel: [  196.726372] Vivek Senapati: hotplugd is running on CPU 4.
+May  3 17:37:48 vivek-VirtualBox kernel: [  197.040458] Vivek Senapati: hotplugd is running on CPU 3.
+May  3 17:38:03 vivek-VirtualBox kernel: [  211.826289] Vivek Senapati: hotplugd is running on CPU 0.
+May  3 17:38:03 vivek-VirtualBox kernel: [  211.826292] Vivek Senapati: hotplugd is running on CPU 5.
+May  3 17:38:03 vivek-VirtualBox kernel: [  211.826296] Vivek Senapati: hotplugd is running on CPU 4.
+May  3 17:38:03 vivek-VirtualBox kernel: [  211.826372] Vivek Senapati: hotplugd is running on CPU 1.
+May  3 17:38:03 vivek-VirtualBox kernel: [  211.826377] Vivek Senapati: hotplugd is running on CPU 2.
+May  3 17:38:03 vivek-VirtualBox kernel: [  212.082386] Vivek Senapati: hotplugd is running on CPU 3.
